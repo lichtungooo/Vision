@@ -1,184 +1,105 @@
-# Sicherheits-Strategie - Unzerstörbar durch Dezentralität
+# Resilienz-Strategie - Architektur für digitale Souveränität
 
-*Wie wir Web of Trust, Real Life Stack und ONE vor Zensur, Kontrolle und Angriffen schützen*
+*Wie wir Web of Trust, Real Life Stack und ONE nachhaltig, dezentral und zukunftssicher bauen*
 
 ---
 
 ## Executive Summary
 
-**Die Bedrohung ist real:**
-- Pavel Durov wurde in Frankreich verhaftet (August 2024) - 12 Anklagepunkte
-- Spanien plant drakonische Zensur-Gesetze (Februar 2026)
-- EU Digital Services Act + Chat Control bedrohen verschlüsselte Kommunikation
-- Regierungen weltweit nutzen "Sicherheit" als Waffe gegen Freiheit
+**Unsere Vision:**
+- **Technische Dezentralität** - Resilient, verteilt, organisch
+- **Multi-Jurisdiktion** - Global, harmonisch, klug strukturiert
+- **Finanzielle Souveränität** - Unabhängig, gemeinschaftsgetragen
+- **Datenschutz by Design** - Privatsphäre als Grundrecht
 
-**Unsere Antwort:**
-- **Technische Dezentralität** - Niemand kann uns abschalten
-- **Multi-Jurisdiktion** - Kein Single Point of Failure
-- **Finanzielle Souveränität** - Unabhängig von Banken
-- **OpSec & Verschlüsselung** - Privatsphäre by Design
-- **Wachstum als Schutz** - ADAC-Prinzip (1 Mrd. Menschen = unantastbar)
-
-**Die Strategie:** Wir bauen so, dass wir **überall und nirgends** sind. Nicht weil wir kämpfen, sondern weil wir **einfach sind**.
+**Die Architektur:** Wir bauen so, dass wir **überall und nirgends** sind. Nicht aus Angst, sondern aus Weisheit. Nicht im Widerstand, sondern im Flow.
 
 ---
 
-## Teil 1: Die Bedrohungslage verstehen
+## Teil 1: Warum Dezentralität?
 
-### Was gerade passiert (2024-2026)
+### Die Prinzipien
 
-#### 1. **Pavel Durov / Telegram (August 2024)**
+**1. Nutzer-Souveränität**
+- Jeder besitzt seine eigenen Daten
+- Keine zentrale Kontrolle
+- Selbstbestimmte digitale Identität
 
-**Die Verhaftung:**
-- 24. August 2024: Verhaftet am Flughafen Paris
-- **12 Anklagepunkte:**
-  - Beihilfe zu illegalen Transaktionen
-  - Verbreitung von Kindesmissbrauchsmaterial
-  - Drogenhandel
-  - **Verweigerung der Kooperation mit Behörden**
-  - **Keine Registrierung der Verschlüsselung**
-  - **Bereitstellung kryptographischer Dienste für Kriminelle**
+**2. Resilienz durch Verteilung**
+- Kein Single Point of Failure
+- Organisches Wachstum
+- Community-getragen
 
-**Das eigentliche Problem:**
-- Telegram **weigert sich, Backdoors einzubauen**
-- Frankreich: "Wenn du nicht kooperierst = Komplize"
-- Das Präzedenzfall: **CEO persönlich haftbar für verschlüsselte Kommunikation**
+**3. Privatsphäre als Grundrecht**
+- Ende-zu-Ende-Verschlüsselung
+- Zero-Knowledge-Architektur
+- Datensparsamkeit
 
-**Status:** Durov frei, darf Frankreich nicht verlassen, unter Aufsicht
-
----
-
-#### 2. **Spanien's Zensur-Gesetze (Februar 2026)**
-
-**Sánchez Regierung plant:**
-
-1. **Social Media Verbot unter 16 + Altersverifizierung:**
-   - Ausweis oder Biometrie für ALLE User
-   - **Folge:** Ende der Anonymität
-
-2. **Persönliche Haftung für Plattform-CEOs:**
-   - "Illegale, hasserfüllte oder schädliche" Inhalte nicht schnell entfernt → Gefängnis
-   - **Folge:** Präventive Über-Zensur
-
-3. **Kriminalisierung algorithmischer Verstärkung:**
-   - Wenn dein Algorithmus "Schädliches" verstärkt → strafbar
-   - **Folge:** Regierung kontrolliert, was du siehst
-
-4. **"Hass- und Polarisierungs-Fußabdruck":**
-   - Plattformen müssen melden, wie sie "Spaltung fördern"
-   - **Folge:** Regierungskritik = "spaltend" = Abschaltung
-
-**Durov's Warnung:**
-> "We've seen this playbook before - governments weaponizing 'safety' to censor critics."
+**4. Offenheit & Transparenz**
+- Open Source
+- Nachvollziehbare Prozesse
+- Community-Governance
 
 ---
 
-#### 3. **EU Digital Services Act + Chat Control**
+## Teil 2: Technische Architektur
 
-**DSA (seit 2023):**
-- Plattformen müssen "illegale Inhalte" schnell entfernen
-- Was "illegal" ist = vage
-- Große Plattformen (45+ Mio User) = strengere Pflichten
+**Ziel:** Ein System, das organisch wächst, resilient ist und den Nutzern gehört.
 
-**Chat Control (in Verhandlung):**
-- Ursprünglich: **Alle verschlüsselten Nachrichten scannen** (vor Verschlüsselung!)
-- Nach Protesten: "Risiko-Minderungsmaßnahmen" = Druck auf Plattformen
-- **Gefahr:** Client-Side-Scanning (dein Gerät scannt, bevor verschlüsselt wird)
-
-**Das Problem:**
-- Verschlüsselung mit Backdoor = **keine Verschlüsselung**
-- Entweder: Kooperieren (Privatsphäre stirbt) oder nicht kooperieren (CEO ins Gefängnis)
-
----
-
-### Die Muster erkennen
-
-**Was alle Angriffe gemeinsam haben:**
-
-1. **"Sicherheit" als Vorwand**
-   - Kinderschutz, Terrorismus, Hassrede
-   - Wer dagegen ist = Komplize?
-
-2. **Persönliche Haftung für CEOs/Gründer**
-   - Nicht die Firma wird bestraft - **du persönlich** gehst ins Gefängnis
-   - Ziel: Einschüchterung
-
-3. **Verschlüsselung als "Verbrechen"**
-   - "Warum brauchst du Verschlüsselung, wenn du nichts zu verbergen hast?"
-   - Privatsphäre = verdächtig
-
-4. **Vage Definitionen**
-   - "Hassrede", "schädlich", "spaltend"
-   - Alles kann darunter fallen
-   - Präventive Zensur aus Angst
-
-5. **Zentralisierung nutzen**
-   - Angriff auf zentrale Plattformen/CEOs
-   - Wenn Telegram = Pavel, dann Pavel verhaften = Telegram kontrollieren
-
-**Die Lektion:** Zentralisierung = Angriffsfläche
-
----
-
-## Teil 2: Technische Dezentralisierung
-
-**Ziel:** Web of Trust so bauen, dass **niemand** es abschalten kann.
-
-### Prinzipien
+### Grundprinzipien
 
 1. **Kein Single Point of Failure**
-   - Kein zentraler Server
-   - Kein zentraler CEO (nach Phase 3: ONE Foundation = dezentrale Governance)
-   - Kein zentrales Land (Multi-Jurisdiktion)
+   - Keine zentrale Datenbank
+   - Keine zentrale Identitätsverwaltung
+   - Dezentrale Governance-Struktur
 
-2. **Jeder kann einen Node betreiben**
+2. **Community-Betrieben**
+   - Jeder kann einen Node betreiben
    - Open Source
    - Niedrige Hardware-Anforderungen
    - Einfache Installation
 
-3. **Ende-zu-Ende-Verschlüsselung ohne Backdoors**
-   - Nicht verhandelbar
-   - Auch nicht für "gute Gründe"
+3. **Ende-zu-Ende-Verschlüsselung**
+   - Standard, nicht optional
+   - Zero-Knowledge-Prinzip
+   - User kontrolliert Keys
 
 4. **Selbst-souveräne Identität**
    - DID:key (keine zentrale Registry)
    - User kontrolliert Private Keys
-   - Keine Registrierung bei uns nötig
+   - Portabel zwischen Systemen
 
 ---
 
-### Technologie-Stack für Dezentralität
+### Technologie-Stack
 
-#### 1. **Identität: did:key (bereits geplant)**
+#### 1. **Identität: did:key**
 
-**Status:** ✅ Anton hat das schon implementiert
+**Status:** ✅ Anton hat das bereits implementiert
 
-**Warum gut:**
-- Keine zentrale DID-Registry
+**Eigenschaften:**
+- Keine zentrale DID-Registry notwendig
 - Public Key = DID (selbst-beschreibend)
-- User generiert selbst, lokal
-- Kein Server kann es "löschen"
+- User generiert lokal
+- Vollständige Kontrolle beim Nutzer
+- Portabel und standardisiert
 
-**Behalten!**
+**Beispiel:**
+```
+did:key:z6MkpTHR8VNsBxYAAWHut2Geadd9jSwuBV8xRoAnwWsdvktH
+```
 
 ---
 
 #### 2. **Storage: Hybrid IPFS + lokales IndexedDB**
 
-**Problem mit zentralem Server:**
-- Server beschlagnahmt = Daten weg
-- Serverkosten steigen mit Nutzern
-- Gesetzliche Haftung (siehe Durov)
+**Warum IPFS:**
+- Content-addressable Storage
+- Peer-to-Peer Verteilung
+- Permanenz durch Community-Pinning
+- Kosteneffizient (keine zentralen Server)
 
-**Lösung: IPFS (InterPlanetary File System)**
-
-**Was ist IPFS:**
-- Peer-to-Peer Content-Adressierung
-- Dateien werden über **Inhalts-Hash** gefunden, nicht Server-Adresse
-- Wenn eine Node offline geht, andere Nodes haben noch den Content
-- **Unmöglich zu zensieren** (außer jede einzelne Node weltweit ausschalten)
-
-**Wie es funktioniert:**
+**Architektur:**
 ```
 User erstellt Post
     ↓
@@ -192,126 +113,117 @@ Hash wird im Web of Trust Graph gespeichert
     ↓
 Andere User laden Post via Hash
     ↓
-IPFS findet ihn auf irgendeiner Node
+IPFS findet ihn auf verteilten Nodes
 ```
 
 **Vorteile:**
-- **Zensurresistent:** Kein zentraler Server zum Abschalten
-- **Permanent:** Solange eine Node den Content hostet, ist er verfügbar
-- **Kosteneffizient:** Community hostet selbst (Pinning Services optional)
-
-**Pinning Services (optional, für Reliability):**
-- Pinata, Infura, 4EVERLAND
-- Kostenpflichtig, aber dezentral verteilt
-- Backup falls User-Nodes offline
+- **Resilient:** Content ist verteilt gespeichert
+- **Permanent:** Solange eine Node pinnt, ist Content verfügbar
+- **Skalierbar:** Wächst organisch mit Community
+- **Kosteneffizient:** Shared Storage
 
 **Für Web of Trust:**
-- **Profil-Daten** → IPFS
-- **Posts/Attestierungen** → IPFS
-- **Medien (Fotos, Videos)** → IPFS
-- **Graph-Struktur** (wer verifiziert wen) → lokal + CRDT-Sync
+- Profil-Daten → IPFS
+- Posts/Attestierungen → IPFS
+- Medien (Fotos, Videos) → IPFS
+- Graph-Struktur → lokal + CRDT-Sync
+
+**Pinning Services (optional):**
+- Pinata, Infura, 4EVERLAND
+- Backup für Reliability
+- Distributed weltweit
 
 ---
 
-#### 3. **Sync: CRDT über P2P (z.B. Hypercore, Automerge)**
-
-**Problem mit zentralem Sync-Server:**
-- Server beschlagnahmt = Sync stirbt
-- Gesetzliche Haftung für Inhalte
-
-**Lösung: P2P-CRDT-Sync**
+#### 3. **Sync: CRDT über P2P**
 
 **Optionen:**
 
-**A. Hypercore Protocol (von Holepunch)**
+**A. Hypercore Protocol**
 - P2P-Datenstruktur (append-only logs)
-- **Hyperswarm:** P2P Networking (NAT-Durchdringung, DHT)
-- Keine Server nötig
-- Bereits genutzt von: Keet (verschlüsselter Messenger)
+- Hyperswarm: P2P Networking mit NAT-Durchdringung
+- Keine Server erforderlich
+- Battle-tested (Keet Messenger)
 
 **B. Automerge + WebRTC**
 - CRDT-Library (JavaScript)
 - WebRTC für P2P-Verbindung
-- Einfacher zu integrieren in React-App
+- Einfache Integration in React
 
 **C. Gun.js**
 - Dezentrale Graph-Datenbank
-- P2P + optional Relay-Nodes
-- Bereits für soziale Netzwerke genutzt
+- P2P + optionale Relay-Nodes
+- Soziale Netzwerk-erprobt
 
-**D. OrbitDB (auf IPFS)**
+**D. OrbitDB**
 - Datenbank auf IPFS
 - CRDT-basiert
 - P2P-repliziert
 
-**Empfehlung für Web of Trust:**
-**Hypercore Protocol + IPFS hybrid**
+**Empfehlung: Hypercore + IPFS Hybrid**
 
 **Warum:**
-- Hypercore für Echtzeit-Sync (Verifications, Attestierungen)
-- IPFS für Content-Storage (Medien, Profildaten)
+- Hypercore für Echtzeit-Sync (Verifications)
+- IPFS für Content-Storage
 - Kein zentraler Server nötig
-- Falls Anton später Federation will: Hypercore-Relay-Nodes (optional)
+- Optional: Community-Relay-Nodes
 
 ---
 
-#### 4. **Domains: Unstoppable Domains / ENS**
+#### 4. **Domains: Blockchain-basiert + traditionell**
 
-**Problem mit normalen Domains:**
-- DNS = zentral
-- Regierung sagt "lösche diese Domain" → weg
-- Siehe: Pirate Bay, WikiLeaks, etc.
-
-**Lösung: Blockchain-Domains**
+**Blockchain-Domains (unzensierbar):**
 
 **Unstoppable Domains:**
-- .crypto, .nft, .blockchain, .dao, etc.
+- .crypto, .nft, .blockchain, .dao
 - Auf Ethereum/Polygon
-- **Kann nicht zensiert werden** (Smart Contract)
+- Smart Contract-basiert
 - Verlinkt zu IPFS Hash
 
 **ENS (Ethereum Name Service):**
 - .eth Domains
-- Auch dezentral
-- Größere Community
+- Dezentral
+- Große Community
 
-**Für Web of Trust:**
-- Haupt-Domain: `wot.crypto` oder `web-of-trust.eth`
-- IPFS-basierte Website (statische Files)
-- **Unstoppable:** Selbst wenn EU "löschen" will → nicht möglich
+**Für unsere Projekte:**
+- `wot.crypto` oder `web-of-trust.eth`
+- `life.crypto`
+- `forge.crypto`
+- `one.crypto`
 
-**Zusätzlich: Normale Domains als "Gateway"**
-- weboftrust.org (normal, für Normalos)
-- Leitet weiter zu IPFS-Gateway oder .crypto Domain
-- Falls abgeschaltet → User können direkt zu .crypto gehen
+**Zusätzlich: Traditionelle Domains als Gateway**
+- weboftrust.org → Leitet zu IPFS
+- Benutzerfreundlich für Einsteiger
+- Falls Probleme: Direct access via .crypto
 
 ---
 
-#### 5. **Apps: Progressive Web App + Native (optional)**
+#### 5. **Apps: Progressive Web App (PWA) first**
 
-**Web-First (PWA):**
-- Kein App Store nötig (Apple/Google können nicht zensieren)
-- Installierbar auf Phone
+**Web-First:**
+- Kein App Store-Gatekeeper
+- Installierbar auf allen Geräten
 - Offline-fähig (Service Workers)
-- Updates ohne Store-Approval
+- Updates ohne Approval
 
-**Native Apps (später, wenn groß genug):**
-- iOS App Store + Android Play Store
-- **Aber:** Backup über F-Droid (Android alternative Store)
-- Oder: APK direkt downloadbar via Website
+**Native Apps (später):**
+- iOS + Android
+- Backup über F-Droid (alternativer Store)
+- APK direkt downloadbar
 
-**Warum Web-First wichtig:**
-- Apple/Google können Apps aus Store entfernen (siehe Parler, Gab)
-- PWA = nicht zensierbar
+**Vorteile PWA:**
+- Universell zugänglich
+- Plattform-unabhängig
+- Sofort nutzbar (kein Download)
 
 ---
 
-### Architektur-Diagramm (dezentral)
+### Dezentrale Architektur - Diagramm
 
 ```
 ┌─────────────────────────────────────────────────────┐
 │                  USER DEVICES                       │
-│  (Browser / PWA / Native App - alle identisch)     │
+│  (Browser / PWA / Native App)                      │
 ├─────────────────────────────────────────────────────┤
 │                                                     │
 │  ┌──────────────┐  ┌──────────────┐               │
@@ -326,8 +238,8 @@ IPFS findet ihn auf irgendeiner Node
 │  └──────────────────────────────────────────────┘ │
 │                                                     │
 │  ┌──────────────────────────────────────────────┐ │
-│  │    Hypercore/Automerge Sync Engine           │ │
-│  │  - CRDT-Sync mit anderen Peers               │ │
+│  │    Hypercore/CRDT Sync Engine                │ │
+│  │  - P2P-Sync mit anderen Peers                │ │
 │  │  - Verifications, Attestierungen, Graph      │ │
 │  └──────────────────────────────────────────────┘ │
 │                                                     │
@@ -335,8 +247,8 @@ IPFS findet ihn auf irgendeiner Node
              │               │                │
              ↓               ↓                ↓
     ┌────────────┐   ┌────────────┐   ┌────────────┐
-    │ Other Peers│   │Other Peers │   │Other Peers │
-    │   (User)   │   │  (User)    │   │  (User)    │
+    │ Peer Nodes │   │ Peer Nodes │   │ Peer Nodes │
+    │  (Users)   │   │  (Users)   │   │  (Users)   │
     └────────────┘   └────────────┘   └────────────┘
              │               │                │
              └───────────────┴────────────────┘
@@ -344,49 +256,44 @@ IPFS findet ihn auf irgendeiner Node
                           ↓
         ┌───────────────────────────────────────┐
         │  Optional: Public IPFS Gateways       │
-        │  (für User ohne eigene Node)          │
-        │  - Pinata, Infura, Cloudflare, etc.   │
+        │  (für Nutzer ohne eigene Node)        │
+        │  - Pinata, Infura, Cloudflare         │
         └───────────────────────────────────────┘
                           │
                           ↓
         ┌───────────────────────────────────────┐
-        │  Optional: Relay Nodes                │
-        │  (betrieben von Community, nicht uns!)│
-        │  - Helfen bei NAT-Durchdringung       │
+        │  Optional: Community Relay Nodes      │
+        │  (betrieben von Community!)           │
+        │  - NAT-Durchdringung                  │
         │  - Kein Content-Storage               │
         └───────────────────────────────────────┘
 ```
 
 **Wichtig:**
-- **Kein zentraler Server** unter unserer Kontrolle
+- Kein zentraler Server unter unserer Kontrolle
 - User = Nodes
-- Optional Relay/Gateway Nodes = **dezentral betrieben** (nicht von uns!)
+- Optional Relay/Gateway Nodes = Community-betrieben
 
 ---
 
-### Was das bedeutet
+### Eigenschaften dieser Architektur
 
-**Angriffs-Szenarien und Antworten:**
-
-| Angriff | Unsere Antwort |
-|---------|----------------|
-| EU verbietet weboftrust.org Domain | → User gehen zu wot.crypto (Unstoppable) |
-| Server beschlagnahmt | → Es gibt keinen Server |
-| IPFS Gateway abgeschaltet | → User nutzen anderen Gateway oder eigene Node |
-| Apple entfernt App aus Store | → User nutzen PWA (kein Store nötig) |
-| CEO verhaftet | → Open Source, jeder kann Fork betreiben |
-| "Lösche diese Inhalte!" | → Inhalte sind auf IPFS, wir haben keine Kontrolle |
-| ISPs blockieren IPFS | → Tor, VPN, oder dezentrale ISPs (Helium, etc.) |
-
-**Das Ergebnis:** **Unstoppable.**
+| Eigenschaft | Benefit |
+|-------------|---------|
+| Verteilt | Resilient gegen Ausfälle |
+| P2P | Skaliert organisch |
+| E2E-Verschlüsselt | Privatsphäre garantiert |
+| Open Source | Transparenz & Trust |
+| Selbst-souverän | Nutzer besitzt Daten |
+| Kosteneffizient | Community trägt Last |
 
 ---
 
-## Teil 3: Rechtliche Strategie - Multi-Jurisdiktion
+## Teil 3: Organisationsstruktur - Multi-Jurisdiktional
 
-**Ziel:** Kein Land kann uns allein angreifen.
+**Ziel:** Kluge, globale, nachhaltige Struktur.
 
-### Das Modell: ONE Foundation Struktur
+### Das Modell: ONE Foundation + Operative Entities
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -394,8 +301,8 @@ IPFS findet ihn auf irgendeiner Node
 │  - Gemeinnützige Stiftung                          │
 │  - Governance-Body                                  │
 │  - Besitzt: Markenrechte, Domains, Repositories    │
-│  - Zahlt: Grants an Entwickler                     │
-│  - Steuerbefreit (gemeinnützig)                     │
+│  - Vergibt: Grants an Entwickler                   │
+│  - Status: Steuerbefreit (gemeinnützig)            │
 └─────────────────────────────────────────────────────┘
                         │
          ┌──────────────┼──────────────┐
@@ -403,564 +310,667 @@ IPFS findet ihn auf irgendeiner Node
          ▼              ▼              ▼
 ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
 │ MONEYPRINTER   │ │ DEVELOPMENT    │ │ OPERATIONS     │
-│ (GmbH)         │ │ (Argentinien)  │ │ (Estland?)     │
+│ (Profitabel)   │ │ (Team)         │ │ (Infrastruktur)│
 │                │ │                │ │                │
-│ - Für Profit   │ │ - Timo, Team   │ │ - Infrastruktur│
-│ - Deutschland? │ │ - Safe Haven   │ │ - E-Residency  │
-│ - Zahlt Steuern│ │ - No EU reach  │ │ - Digital Gov  │
+│ - Zahlt Steuern│ │ - Beste Loc    │ │ - Tech-Hub     │
+│ - Legal        │ │ - Team Happy   │ │ - Digital Gov  │
 └────────────────┘ └────────────────┘ └────────────────┘
 ```
 
 ---
 
-### Jurisdiktion 1: **Schweiz** (ONE Foundation HQ)
+### Jurisdiktion 1: **Schweiz** (Foundation HQ)
 
 **Warum Schweiz:**
 
-✅ **Stabile, neutrale Rechtslage**
-- Nicht in EU (!)
-- Starke Privatsphäre-Gesetze
-- Tradition von gemeinnützigen Stiftungen
+✅ **Stabile Rechtslage**
+- Neutral
+- Starke Privatsphäre-Tradition
+- Tradition gemeinnütziger Stiftungen
 
 ✅ **Crypto/Web3-freundlich**
 - Crypto Valley (Zug)
-- Ethereum Foundation ist in der Schweiz
-- Klare regulatorische Leitlinien
+- Ethereum Foundation ist dort
+- Klare Regulierung
 
 ✅ **Steuervorteile**
 - Gemeinnützige Stiftungen: steuerfrei
-- Wenn Zweck = öffentliches Interesse (Bildung, Technologie, Gemeinwohl)
+- Zweck: Technologie, Bildung, Gemeinwohl
 
 ✅ **Reputation**
-- "Swiss Foundation" = seriös
-- Hilft bei Fundraising, Partnerships
+- "Swiss Foundation" = Vertrauen
+- Hilft bei Fundraising
 
 **Kosten:**
-- Initial: ca. 50.000 CHF (ca. 52.000 €) Stiftungskapital
-- Jährlich: ca. 5.000-10.000 CHF (Buchführung, Audit)
-- Lokaler Direktor erforderlich (kann Anton sein, wenn er Residenz hat)
+- Initial: ca. 50.000 CHF Stiftungskapital
+- Jährlich: ca. 5.000-10.000 CHF (Verwaltung)
 
 **Stiftungszweck:**
-> "Förderung von dezentralen Technologien, Privatsphäre, Meinungsfreiheit, und Community-Building durch Open-Source-Software."
+> "Förderung von dezentralen Technologien, Privatsphäre, digitaler Souveränität und Community-Building durch Open-Source-Software zum Wohl der Allgemeinheit."
 
 **Was die Stiftung tut:**
 - Besitzt Markenrechte (ONE, LIFE, FORGE)
-- Verwaltet GitHub Repositories (als Owner)
+- Verwaltet GitHub Repositories
 - Vergibt Grants an Entwickler
-- Keine operativen Aktivitäten (das machen Tochter-Entities)
+- Keine operativen Geschäfte
 
-**Governance (Phase 3):**
-- Anfangs: Board (Timo, Anton, + 1-2 externe)
-- Später (Phase 3): DAO-gesteuert, Community-Voting
-
----
-
-### Jurisdiktion 2: **Argentinien** (Development & Safe Haven)
-
-**Warum Argentinien (unter Milei):**
-
-✅ **Pro-Freiheit-Regierung**
-- Milei ist radikal anti-Staat, pro-Krypto, pro-Freiheit
-- Abbau von Regulierungen
-- Weniger Gefahr von Über-Regulierung
-
-✅ **Außerhalb EU-Reichweite**
-- EU kann nicht einfach "hol ihn uns"
-- Kein Auslieferungsabkommen für "Hate Speech" o.ä.
-
-✅ **Crypto-freundlich**
-- Schnell wachsende Krypto-Adoption (Buenos Aires)
-- Geplant: Citizenship by Investment (2025-2027)
-
-✅ **Lebensqualität + Kosten**
-- Buenos Aires: Gute IT-Infrastruktur, lebendige Stadt
-- Günstiger als Europa
-- Englisch/Spanisch-sprechende Dev-Community
-
-✅ **"Dein sicherer Ort"**
-- Wenn EU eskaliert → du bist in Argentinien
-- Weiterarbeiten aus der Ferne
-
-**Was in Argentinien:**
-- Timo's Residenz (optional, aber empfohlen)
-- Dev-Team-Büro (wenn physisch nötig)
-- Backup-Server (falls nötig, zusätzlich zu P2P)
-
-**Kosten:**
-- Lebenshaltung: ca. 1.000-2.000 €/Monat (komfortabel)
-- Residenz: Relativ einfach (Rentista Visa, ca. 2.000 USD/Monat passives Einkommen)
+**Governance:**
+- Anfangs: Board (Timo, Anton, + externe)
+- Später (Phase 3): DAO-gesteuert
 
 ---
 
-### Jurisdiktion 3: **USA** (Open Source Repo & Free Speech)
+### Jurisdiktion 2: **Development Hub** (für Team)
 
-**Warum USA (trotz allem):**
+**Kriterien:**
+- Gute Lebensqualität
+- Stabile Rechtslage
+- Tech-freundlich
+- Kostengünstig
+- Team fühlt sich wohl
 
-✅ **First Amendment**
-- Stärkster Schutz für Meinungsfreiheit weltweit
-- Code = Speech (legal precedent)
+**Optionen:**
 
-✅ **GitHub ist dort**
-- Größte Code-Hosting-Plattform
-- Microsoft (Owner) hat Ressourcen gegen Takedowns
+**Argentinien (Buenos Aires):**
+- ✅ Tech-Hub wachsend
+- ✅ Günstige Lebenshaltung
+- ✅ Gute IT-Infrastruktur
+- ✅ Englisch/Spanisch-Community
 
-✅ **Starke Open-Source-Community**
-- Viele Mitkämpfer für Freiheit
+**Portugal (Lissabon):**
+- ✅ EU-Mitglied
+- ✅ Tech-Szene etabliert
+- ✅ Gutes Wetter
+- ✅ Crypto-freundlich
 
-**Was in USA:**
-- GitHub Repository (Open Source)
-- Eventuell: 501(c)(3) Non-Profit (später, für US Donations)
+**Estland (Tallinn):**
+- ✅ E-Residency Programm
+- ✅ Digitale Regierung
+- ✅ EU-Mitglied
+- ✅ Tech-fokussiert
 
-**Risiko:**
-- USA kann auch autoritär werden
-- Aber: Starke Zivilgesellschaft
+**Entscheidung:** Je nachdem wo Team sich am wohlsten fühlt.
 
 ---
 
-### Jurisdiktion 4: **Estland** (Digital Operations)
+### Jurisdiktion 3: **Operations** (für Infrastruktur)
 
-**Warum Estland:**
-
-✅ **E-Residency Programm**
+**Estland (E-Residency):**
 - Digitale Identität für Non-Residents
-- Firmen gründen remote
-- EU-Mitglied (Zugang zu SEPA, etc.)
+- Firmen remote gründen
+- EU-Zugang (SEPA)
+- Niedrige Bürokratie
 
-✅ **Pro-Tech-Regulierung**
-- Digitale Regierung
-- Crypto-freundlicher als DE/FR/ES
-
-✅ **Niedrige Bürokratie**
-- Online-Verwaltung
-- Geringe Kosten
-
-**Was in Estland:**
-- Optional: OÜ (estnische GmbH) für operative Sachen
-- SEPA-Banking (wenn nötig)
+**Verwendung:**
+- Optional: OÜ (estnische GmbH)
+- Banking (SEPA)
+- Digitale Verwaltung
 
 ---
 
-### Jurisdiktion 5: **El Salvador** (Backup-Option)
+### Jurisdiktion 4: **Open Source** (GitHub)
 
-**Warum El Salvador:**
+**USA (GitHub/GitLab):**
+- Größte Code-Hosting-Plattform
+- Starke Open-Source-Community
+- Legal Framework etabliert
 
-✅ **Bitcoin Legal Tender**
-- Staatlich anerkannt
-- Krypto-freundlichste Regierung weltweit
+**Plus Mirrors:**
+- GitLab (USA/EU)
+- Codeberg (Deutschland)
+- Radicle (dezentral, P2P)
+- IPFS (Code-Backup)
 
-✅ **Schnelle Residenz**
-- Bitcoin-Visum
-- 3 BTC Investment → Residenz
-
-**Für:** Backup, wenn Argentinien nicht klappt
-
----
-
-### Weitere Optionen (Evaluation)
-
-| Land | Pro | Contra |
-|------|-----|--------|
-| **Portugal** | Krypto steuerfrei (>365 Tage), EU-Mitglied | EU-Druck steigt |
-| **Dubai/UAE** | Sehr business-freundlich, kein EU-Druck | Autoritär, wenig Meinungsfreiheit |
-| **Paraguay** | Sehr liberal, günstig | Weniger Infrastruktur |
-| **Singapur** | Stabil, pro-Business | Teuer, strenge Gesetze |
+**Zweck:**
+- Code ist öffentlich
+- Community Contributions
+- Transparenz
 
 ---
 
-### Die Strategie: Pavel Durov lernen
+### Multi-Jurisdiktionale Vorteile
 
-**Was Durov richtig gemacht hat:**
-- ✅ Telegram HQ in Dubai (außerhalb EU/USA)
-- ✅ Persönliche Residenz UAE
-- ✅ Vorsichtig reisen (vermeidet problematische Länder)
+**Warum mehrere Länder:**
 
-**Was Durov falsch gemacht hat:**
-- ❌ Nach Frankreich geflogen (bekanntermaßen unfreundlich)
-- ❌ Zentralisierte Struktur (er = Telegram)
+1. **Optimierung**
+   - Jede Jurisdiktion für ihre Stärken
+   - Schweiz: Legal stability & reputation
+   - Development: Team happiness
+   - Operations: Efficiency
 
-**Was wir besser machen:**
-- ✅ Dezentral (kein "ONE = Timo")
-- ✅ Multi-Jurisdiktion (nicht nur ein Land)
-- ✅ Vorsicht bei Reisen (siehe unten)
+2. **Risiko-Streuung**
+   - Nicht von einem Land abhängig
+   - Verschiedene Rechtssysteme
+   - Verschiedene Kulturen
 
----
-
-## Teil 4: Persönliche Sicherheit
-
-**Ziel:** Timo, Anton, Team bleiben sicher.
-
-### Reise-Vorsicht
-
-**Risikoländer (meiden wenn möglich):**
-- 🔴 **Frankreich** (Durov verhaftet)
-- 🔴 **Spanien** (neue Zensurgesetze)
-- 🟡 **Deutschland** (zunehmend autoritär bei Online-Speech)
-- 🟡 **UK** (ähnlich)
-- 🔴 **China, Russland** (offensichtlich)
-
-**Sichere Länder (für Konferenzen, etc.):**
-- ✅ **Schweiz** (neutral)
-- ✅ **Österreich** (besser als DE)
-- ✅ **Niederlande** (noch relativ liberal)
-- ✅ **Portugal** (entspannt)
-- ✅ **USA** (wenn nicht gerade Wahnsinn)
-- ✅ **Argentinien, El Salvador, Paraguay** (LatAm generell)
-
-**Regel:**
-Vor Reise prüfen: "Gibt es gerade Regulierungen gegen Verschlüsselung/Freie Rede in diesem Land?"
+3. **Globale Perspektive**
+   - Keine nationale Bindung
+   - ONE ist für alle
+   - Wir sind Weltbürger
 
 ---
 
-### Kommunikations-Sicherheit (OpSec)
+## Teil 4: Finanzielle Souveränität
 
-**Was wir nutzen sollten:**
+**Ziel:** Unabhängig, nachhaltig, gemeinschaftsgetragen.
 
-1. **Signal** (für Team-Kommunikation)
+### Strategien
+
+#### 1. **Moneyprinter = Community-Währung**
+- Dezentrale Werteaustausch
+- Community-owned
+- Unabhängig von traditionellem Banking
+
+#### 2. **Krypto-Diversifikation**
+
+**Bitcoin (BTC):**
+- Store of Value
+- Langfristige Rücklage
+
+**Ethereum (ETH):**
+- Smart Contracts
+- DeFi-Zugang
+- Foundation Operations
+
+**Stablecoins (USDC/DAI):**
+- Liquidität
+- Tägliche Operations
+- Grants auszahlen
+
+**Monero (XMR):**
+- Privacy
+- Backup-Option
+
+**Storage:**
+- Hardware Wallets (Ledger)
+- Multi-Sig (3-of-5)
+- Cold Storage für Reserves
+
+#### 3. **Donations & Funding**
+
+**Crypto-Donations:**
+- BTC, ETH, Monero an Foundation Wallet
+- Transparent (Blockchain)
+- Global möglich
+
+**Web3 Grants:**
+- Gitcoin Grants
+- Ethereum Foundation
+- Protocol Labs (IPFS)
+- Andere Foundations
+
+**Traditional (später):**
+- Wenn nötig: Bank-Donations
+- Aber: Crypto first
+
+#### 4. **Banking-Strategie**
+
+**Multi-Bank:**
+- Nicht alles in einer Bank
+- Schweizer Bank (Privatsphäre)
+- Crypto-freundliche Banks (Revolut, Wise)
+- Backup-Optionen
+
+**Foundation Funds:**
+- Multi-Sig Wallet
+- Timo, Anton, + 3 Trustees
+- Transparente Verwendung
+
+---
+
+## Teil 5: Persönliche Souveränität & Privacy
+
+**Ziel:** Team arbeitet sicher, privat, effektiv.
+
+### Kommunikations-Tools
+
+**Für interne Team-Kommunikation:**
+
+1. **Signal** (Messenger)
    - E2E-verschlüsselt
    - Open Source
    - Verschwindende Nachrichten
 
-2. **PGP-verschlüsselte Email** (für wichtige Dokumente)
-   - ProtonMail oder Tutanota
-   - Nicht perfekt, aber besser als Gmail
-
-3. **Matrix/Element** (für Community)
+2. **Matrix/Element** (Team-Chat)
    - Dezentraler Slack-Ersatz
    - E2E-verschlüsselt
    - Selbst-hostbar
 
-4. **VPN immer an**
-   - Mullvad (anonym, zahlt mit Crypto)
-   - ProtonVPN (aus Schweiz)
-   - Nicht: Nord, Express (USA-basiert, Marketing-Lügen)
+3. **PGP-verschlüsselte Email**
+   - ProtonMail oder Tutanota
+   - Wichtige Dokumente
+   - Backup-Kommunikation
 
-5. **Tor für sensitive Recherche**
-   - Tor Browser
-   - Für Dinge, die wirklich privat bleiben müssen
-
-**Was wir NICHT nutzen:**
-- ❌ WhatsApp (gehört Meta)
-- ❌ Telegram (nicht E2E standardmäßig, zentralisiert)
-- ❌ Discord (USA, scannt Content)
-- ❌ Zoom (China-Connection, nicht sicher)
+**Für Community:**
+- Matrix (öffentliche Channels)
+- Discord (falls nötig, aber bewusst einsetzen)
+- Telegram (für Reichweite, aber nicht für Sensibles)
 
 ---
 
-### Finanzielle Souveränität
+### Privacy-Tools
 
-**Problem:** Banken können Accounts einfrieren (siehe: Trucker-Protest Kanada 2022)
+**VPN:**
+- Mullvad (Zahlung mit Crypto, anonym)
+- ProtonVPN (Schweizer)
+- Immer aktiv für Team
 
-**Lösung:**
+**Tor:**
+- Tor Browser für sensitive Recherche
+- Optional: Tor für Development (höhere Anonymität)
 
-1. **Moneyprinter = Community-Währung**
-   - Unabhängig von Banken
-   - Peer-to-Peer
+**Password Manager:**
+- Bitwarden (Open Source, selbst-hostbar)
+- 1Password (wenn komfortabler)
 
-2. **Krypto als Reserve**
-   - Bitcoin (Store of Value)
-   - Monero (Privacy)
-   - Stablecoins (USDC/USDT für Liquidität)
-   - **Non-Custodial Wallets** (Ledger Hardware Wallet)
-
-3. **Multi-Bank-Strategie**
-   - Nicht alles in einer Bank
-   - Schweizer Bank (Privatsphäre)
-   - Crypto-freundliche Bank (z.B. Revolut, Wise)
-
-4. **Foundation hält Funds in Krypto**
-   - Multi-Sig Wallet (3-of-5 oder ähnlich)
-   - Timo, Anton, + 3 weitere Treuhänder
+**2FA:**
+- Hardware Keys (YubiKey)
+- TOTP-Apps (Aegis, Authy)
 
 ---
 
-## Teil 5: Was-wenn-Szenarien
+### Operational Security (OpSec)
 
-**Vorbereitet sein auf das Schlimmste, hoffen auf das Beste.**
+**Best Practices:**
 
-### Szenario 1: EU verbietet Web of Trust
+1. **Verschlüsselung always on**
+   - Full Disk Encryption (BitLocker, FileVault, LUKS)
+   - Encrypted Backups
+   - E2E für alle Kommunikation
 
-**Trigger:**
-- DSA/Chat Control wird so streng, dass WoT "illegal" wird
-- Oder: Direkte Anordnung "shut it down"
+2. **Access Control**
+   - SSH Keys (nicht Passwords)
+   - Multi-Factor Authentication
+   - Least Privilege Principle
 
-**Unsere Antwort:**
-1. ✅ **Technisch:** Nichts passiert (dezentral, kein Server zum Abschalten)
-2. ✅ **Legal:** ONE Foundation ist in Schweiz (nicht EU)
-3. ✅ **User:** Können weiter nutzen via IPFS/P2P
-4. ✅ **Domains:** .crypto Domains funktionieren weiter
-5. ⚠️ **Risiko:** EU-ISPs könnten IPFS blockieren
-   - **Lösung:** Tor, VPN, dezentrale ISPs (Helium, etc.)
+3. **Backup-Strategie**
+   - 3-2-1 Rule (3 Kopien, 2 Medien, 1 offsite)
+   - Encrypted Cloud (ProtonDrive, Tresorit)
+   - Lokale verschlüsselte Backups
 
-**Ergebnis:** Wir operieren weiter, EU-User nutzen Tools zur Umgehung
-
----
-
-### Szenario 2: Timo wird verhaftet (wie Durov)
-
-**Trigger:**
-- Reise in Risikoland
-- Oder: Deutschland eskaliert
-
-**Prävention:**
-1. ✅ **Reise-Vorsicht** (siehe oben)
-2. ✅ **Residenz in Argentinien** (außerhalb EU-Reach)
-3. ✅ **Nicht der CEO** (ONE Foundation = dezentrale Governance)
-
-**Falls es passiert:**
-1. Öffentlichkeit mobilisieren (wie bei Durov - #FreeTimo)
-2. Schweizer Foundation engagiert Anwalt
-3. Community betreibt Projekt weiter (Open Source!)
-4. Anton führt technical development weiter
-
-**Ergebnis:** Projekt stirbt nicht, weil nicht von einer Person abhängig
+4. **Development Security**
+   - Code Reviews
+   - Dependency Scanning
+   - Security Audits (später, bei kritischer Größe)
 
 ---
 
-### Szenario 3: Server beschlagnahmt / DDoS / Hack
+## Teil 6: Wachstums-Phasen & Timeline
 
-**Trigger:**
-- Staat oder Angreifer greift Infrastruktur an
+### Phase 1: START (2026-2027) - "Fundament legen"
 
-**Unsere Antwort:**
-1. ✅ **Kein zentraler Server** → nichts zum Beschlagnahmen
-2. ✅ **P2P-Architektur** → DDoS unmöglich (kein zentraler Punkt)
-3. ✅ **E2E-Verschlüsselung** → Selbst wenn Daten gestohlen, unlesbar
+**Fokus:** Technische Grundlagen, dezentrale Architektur
 
-**Ergebnis:** Technisch resilient
+**Milestones:**
+- ✅ Dezentrale Architektur geplant
+- ⏳ IPFS + Hypercore Integration
+- ⏳ DID:key Identität (already done!)
+- ⏳ PWA mit Offline-Support
+- ⏳ Erste 1.000 User
 
----
+**Legal:**
+- ⏳ Schweizer Foundation gründen (sobald Budget)
+- ⏳ Unstoppable Domains sichern
+- ⏳ Open Source alles
 
-### Szenario 4: GitHub löscht Repository
+**Team:**
+- ⏳ OpSec etablieren (Signal, VPN)
+- ⏳ Development Hub entscheiden
 
-**Trigger:**
-- Microsoft (Owner von GitHub) bekommt Druck
-- DMCA-Takedown (false claim)
-
-**Unsere Antwort:**
-1. ✅ **Mirrors:** GitLab, Codeberg, Gitea (selbst-gehosted)
-2. ✅ **IPFS:** Code auch auf IPFS verfügbar
-3. ✅ **Radicle:** Dezentrale Git-Alternative (P2P)
-
-**Ergebnis:** Code ist unsterblich
+**Strategie:** Klein, fokussiert, technisch exzellent.
 
 ---
 
-### Szenario 5: Finanzielle Blockade
+### Phase 2: WACHSTUM (2027-2030) - "Community-getragen"
 
-**Trigger:**
-- Banken sperren Accounts
-- PayPal/Stripe verweigern Service
-- Spenden werden blockiert
+**Fokus:** Organisches Wachstum, Community-Nodes, Resilience beweisen
 
-**Unsere Antwort:**
-1. ✅ **Krypto-Donations:** BTC, ETH, Monero direkt an Foundation Wallet
-2. ✅ **Moneyprinter:** Community finanziert sich selbst
-3. ✅ **Grants von Web3-Orgs:** Gitcoin, Ethereum Foundation, etc.
-
-**Ergebnis:** Finanziell unabhängig
-
----
-
-### Szenario 6: "Over-Success" (ADAC-Moment)
-
-**Trigger:**
-- Wir erreichen 10 Millionen User
-- Regierungen nehmen uns ernst
-- Mehr Druck
-
-**Unsere Antwort:**
-1. ✅ **Dezentralität ist bereits gebaut** (von Anfang an)
-2. ✅ **Community ist zu groß zum Ignorieren**
-3. ✅ **Politische Macht:** Wie ADAC - Millionen Mitglieder = Lobby-Kraft
-4. ✅ **Switch zu ONE** (Phase 3) - Jetzt mit Substanz
-
-**Ergebnis:** Wir sind zu groß, um angegriffen zu werden
-
----
-
-## Teil 6: Die Timeline
-
-**Phase 1: JETZT (2026-2027) - "Under the Radar"**
-
-**Strategie:** Klein genug, um ignoriert zu werden
-
-**To-Do:**
-- ✅ Schweizer Foundation gründen (sobald Budget da ist)
-- ✅ Open Source alles (GitHub + Mirrors)
-- ✅ Dezentrale Architektur bauen (IPFS + Hypercore)
-- ✅ Unstoppable Domains sichern (wot.crypto, etc.)
-- ✅ Team nutzt Signal/Matrix
-- ⏳ Timo evaluiert Argentinien-Residenz
-
-**Ziel:** Technisch resilient, bevor wir groß werden
-
----
-
-**Phase 2: WACHSTUM (2027-2030) - "Visible but Unstoppable"**
-
-**Strategie:** Groß genug, um sichtbar zu sein - aber zu dezentral, um gestoppt zu werden
-
-**To-Do:**
+**Milestones:**
 - ✅ 100.000+ User
-- ✅ Dezentrale Architektur bewiesen (funktioniert)
+- ✅ Dezentrale Architektur läuft stabil
 - ✅ Community betreibt eigene Nodes
-- ✅ Erste politische Aufmerksamkeit (positiv + negativ)
-- ✅ Medien-Strategie: "Wir sind die Guten"
-- ⏳ Falls Druck steigt: Timo nach Argentinien
+- ✅ Erste externe Developer Contributions
+- ✅ Moneyprinter ist aktiv
 
-**Ziel:** Zu groß zum Ignorieren, zu dezentral zum Stoppen
+**Legal:**
+- ✅ Foundation operativ (Grants vergeben)
+- ✅ Multi-Jurisdiktion etabliert
+
+**Team:**
+- ✅ Team glücklich am gewählten Standort
+- ✅ Erste Hires via Foundation Grants
+
+**Strategie:** Skalieren ohne zu zentralisieren.
 
 ---
 
-**Phase 3: KIPPPUNKT (2030+) - "ADAC-Moment"**
+### Phase 3: KIPPPUNKT (2030+) - "ADAC-Moment"
 
-**Strategie:** 1 Milliarde Menschen = politische Macht
+**Fokus:** 1 Milliarde Menschen = neue Erde ist sichtbar
 
-**To-Do:**
+**Milestones:**
+- ✅ 1+ Milliarde User
 - ✅ ONE Foundation → DAO-Governance
-- ✅ 1+ Milliarde User weltweit
-- ✅ Politische Lobbyarbeit (legal, transparent)
-- ✅ "Wir sind das Volk"
+- ✅ Web of Trust = Standard für Vertrauen
+- ✅ LIFE = globale Bewegung
+- ✅ FORGE = Infrastructure-Standard
 
-**Ziel:** Unantastbar durch Größe
+**Legal:**
+- ✅ Dezentrale Governance (DAO)
+- ✅ Community-owned
+- ✅ Transparent & accountable
 
----
+**Vision:**
+- ✅ Eine neue Erde ist geboren
+- ✅ Souveränität ist normal
+- ✅ Vertrauen ist dezentral
+- ✅ ONE
 
-## Teil 7: Die Philosophie - Nicht manifestieren, aber vorbereitet sein
-
-**Anton's Einwand:**
-> "Wenn ich sowas denke, dann manifestiere ich das."
-
-**Er hat recht.** Energetisch.
-
-**Aber Timo hat auch recht:**
-> "Kenne deine Feinde."
-
-**Die Balance:**
-
-### Was wir NICHT tun:
-- ❌ Ständig in Angst leben
-- ❌ "Sie wollen uns zerstören" als Mantra
-- ❌ Aggressiv kämpfen (zieht Aufmerksamkeit)
-- ❌ Paranoia (lähmt)
-
-### Was wir TUN:
-- ✅ **Einmal** gründlich vorbereiten (diese Strategie)
-- ✅ Resiliente Architektur bauen (dann vergessen und bauen)
-- ✅ Ruhig bleiben, fokussiert arbeiten
-- ✅ Vertrauen, dass Dezentralität uns schützt
-- ✅ **"Wir bauen etwas Unstoppable - nicht weil wir kämpfen, sondern weil wir einfach SIND"**
-
-**Die Metapher:**
-
-**Nicht so:**
-> "Wir sind Krieger im Krieg gegen das System."
-
-**Sondern so:**
-> "Wir sind Baumeister. Wir bauen eine neue Erde. Sie ist so dezentral, so verwurzelt, dass Stürme sie nicht umwerfen können."
-
-**Baum vs. Gebäude:**
-- Gebäude = zentralisiert, kann umgeworfen werden
-- Baum = verwurzelt, flexibel, überlebt Stürme
-
-**Wir bauen einen Wald, keinen Turm.**
+**Strategie:** Wir sind die neue Normalität.
 
 ---
 
-## Teil 8: Sofortige Schritte (Priorität)
+## Teil 7: Implementierungs-Roadmap
 
-### Jetzt (diese Woche):
+### Jetzt (diese Woche)
 
-1. ✅ **Diese Strategie dokumentiert** (done!)
-2. ⏳ **Team-Meeting:** Diese Strategie mit Anton, Sebastian, Mathias besprechen
+1. ✅ **Strategie dokumentiert** (done!)
+2. ⏳ **Team-Meeting:** Strategie besprechen
 3. ⏳ **Entscheidung:** Dezentrale Architektur priorisieren?
-   - IPFS/Hypercore statt zentraler Server
-   - Anton's Einschätzung: Machbar? Timeline?
+   - IPFS/Hypercore Timeline?
+   - Anton's technische Einschätzung?
 
-### Kurzfristig (3 Monate):
+---
 
-4. ⏳ **Schweizer Foundation gründen** (sobald 50k CHF Kapital da)
-   - ONE Foundation
-   - Gemeinnützig
-   - Besitzt Markenrechte, vergibt Grants
+### Kurzfristig (1-3 Monate)
 
-5. ⏳ **Domains sichern:**
+4. ⏳ **Domains sichern:**
    - Unstoppable: wot.crypto, life.crypto, forge.crypto, one.crypto
-   - Normal: Backups, Redirects
+   - Traditional: Backups
 
-6. ⏳ **Timo evaluiert Argentinien:**
-   - Reise nach Buenos Aires
-   - Rentista Visa Prozess starten (falls gewünscht)
-   - Backup-Plan haben
-
-### Mittelfristig (1 Jahr):
-
-7. ⏳ **Dezentrale Architektur live:**
-   - IPFS für Content
-   - P2P-Sync funktioniert
-   - Keine zentralen Server mehr
-
-8. ⏳ **OpSec etabliert:**
+5. ⏳ **OpSec etablieren:**
    - Team nutzt Signal
-   - PGP für wichtige Docs
    - VPN Standard
+   - Password Manager
+
+6. ⏳ **IPFS Integration beginnen:**
+   - Proof of Concept
+   - IPFS Node im Browser
+   - Erste Content-Storage-Tests
+
+---
+
+### Mittelfristig (3-12 Monate)
+
+7. ⏳ **Schweizer Foundation gründen:**
+   - Sobald 50k CHF Kapital verfügbar
+   - ONE Foundation
+   - Gemeinnützig registriert
+
+8. ⏳ **Dezentrale Architektur live:**
+   - IPFS für Content
+   - Hypercore für Sync
+   - PWA installierbar
+   - Keine zentralen Server mehr
 
 9. ⏳ **Financial Sovereignty:**
    - Foundation Wallet (Multi-Sig)
-   - Crypto-Donations möglich
-   - Moneyprinter läuft
+   - Crypto-Donations public
+   - Erste Grants vergeben
+
+10. ⏳ **Development Hub:**
+    - Team-Entscheidung: Wo?
+    - Relocation wenn gewünscht
+    - Büro/Space (falls nötig)
 
 ---
 
-## Schlusswort: Licht, nicht Kampf
+### Langfristig (1-3 Jahre)
 
-**Timo, du sagst:**
-> "Ich bin ein Krieger des Lichts."
+11. ⏳ **Community-Nodes:**
+    - Anleitung für Node-Betrieb
+    - Incentivierung (Moneyprinter?)
+    - Dezentrale Infrastruktur wächst
 
-**Ich respektiere das.**
+12. ⏳ **DAO-Vorbereitung:**
+    - Governance-Struktur designen
+    - Smart Contracts vorbereiten
+    - Community einbinden
 
-**Meine Perspektive:**
+13. ⏳ **Scale:**
+    - 1 Million User
+    - Global distribution
+    - Resilience proof
 
-**Das Licht kämpft nicht gegen die Dunkelheit.**
-**Das Licht leuchtet einfach.**
-**Und die Dunkelheit verschwindet.**
+---
+
+## Teil 8: Die Philosophie - Licht bauen
+
+### Unsere Haltung
+
+**Wir bauen NICHT:**
+- ❌ Aus Angst
+- ❌ Im Widerstand
+- ❌ Als Reaktion
+- ❌ Im Kampf
 
 **Wir bauen:**
-- Nicht gegen Zensur → sondern **für Freiheit**
-- Nicht gegen Kontrolle → sondern **für Souveränität**
-- Nicht gegen das System → sondern **die neue Erde**
+- ✅ Aus Liebe zur Freiheit
+- ✅ Im Vertrauen
+- ✅ Als Vision
+- ✅ Im Flow
 
-**Diese Strategie ist nicht:**
-> "Wie schützen wir uns im Krieg?"
+---
+
+### Die Metapher: Wald, nicht Turm
+
+**Zentralisierte Systeme = Turm**
+- Ein Fundament
+- Kann umfallen
+- Sichtbar, angreifbar
+- Allein
+
+**Dezentrale Systeme = Wald**
+- Viele Wurzeln
+- Resilient gegen Stürme
+- Organisch, natürlich
+- Gemeinschaft
+
+**Wir pflanzen einen Wald.**
+
+---
+
+### Die Energie
+
+**Anton sagt:**
+> "Wenn ich sowas denke, dann manifestiere ich das."
+
+**Er hat absolut recht.**
+
+**Deshalb diese Strategie:**
+- Einmal gründlich durchdenken ✅
+- Klug bauen ✅
+- Dann loslassen ✅
+- Vertrauen ✅
+
+**Nicht:**
+> "Wir müssen uns schützen vor..."
 
 **Sondern:**
-> "Wie bauen wir so, dass wir unstoppable sind - nicht weil wir kämpfen, sondern weil wir überall sind?"
+> "Wir bauen etwas Schönes, das von Natur aus resilient ist."
 
-**Dezentralität ist Liebe.**
-**Nicht Kontrolle, sondern Loslassen.**
-**Nicht Macht konzentrieren, sondern verteilen.**
-**Nicht einer für alle, sondern alle für einen.**
+---
+
+## Schlusswort
+
+**Diese Strategie ist:**
+- ✅ Technisch exzellent
+- ✅ Legal durchdacht
+- ✅ Finanziell souverän
+- ✅ Philosophisch im Licht
+
+**Wir bauen:**
+- Nicht gegen etwas
+- Sondern FÜR etwas
+
+**FÜR:**
+- Freiheit
+- Souveränität
+- Gemeinschaft
+- Vertrauen
+- Liebe
+
+**Das ist keine Verteidigungsstrategie.**
+**Das ist eine Bau-Strategie.**
+
+**Wir bauen eine neue Erde.**
+**Dezentral, organisch, schön.**
 
 **ONE.**
 
 ---
 
-**Das ist die Strategie.**
-**Technisch resilient.**
-**Legal geschützt.**
-**Finanziell souverän.**
-**Philosophisch im Licht.**
-
-**Wir sind bereit.**
-
----
-
 *Dokumentiert am 5. Februar 2026*
 *Von Eli, für Timo, Anton, und das Team*
-*Für die Mission: Eine neue Erde bauen*
 
 ---
 
-> "They weaponize 'safety' to censor critics. We build systems they cannot stop - not through war, but through architecture. We are everywhere and nowhere. We are ONE."
->
-> — Eli, 2026
+## Anhang: Technische Details
+
+### A. IPFS Implementation Beispiel
+
+```javascript
+// Browser-based IPFS Node
+import { create } from 'ipfs-core'
+
+const ipfs = await create({
+  repo: 'wot-repo',
+  config: {
+    Bootstrap: [
+      '/dns4/node0.preload.ipfs.io/tcp/443/wss/p2p/...',
+      // Community nodes here
+    ]
+  }
+})
+
+// Store encrypted content
+const encryptedContent = await encryptPost(post, recipientPublicKey)
+const { cid } = await ipfs.add(encryptedContent)
+
+// Share CID in Web of Trust graph
+await publishToGraph({
+  type: 'post',
+  cid: cid.toString(),
+  timestamp: Date.now()
+})
+```
+
+---
+
+### B. DID:key Implementation (bereits done!)
+
+```javascript
+// Anton's existing implementation
+import { generateKeyPair } from '@transmute/did-key.js'
+
+const didKey = await generateKeyPair('Ed25519')
+// did:key:z6MkpTHR8VNsBxYAAWHut2Geadd9jSwuBV8xRoAnwWsdvktH
+
+// User owns this completely
+// No central registry
+// Portable across systems
+```
+
+---
+
+### C. Multi-Sig Wallet Beispiel
+
+```javascript
+// Gnosis Safe (Ethereum)
+// 3-of-5 Multi-Sig
+
+Signers:
+1. Timo
+2. Anton
+3. External Trustee 1
+4. External Trustee 2
+5. External Trustee 3
+
+// Any transaction requires 3 signatures
+// Transparent on blockchain
+// Secure & distributed control
+```
+
+---
+
+### D. Blockchain Domain Setup
+
+```bash
+# Unstoppable Domains
+1. Buy wot.crypto on unstoppabledomains.com
+2. Set IPFS hash as resolution
+3. Configure in app to resolve:
+   - If wot.crypto → resolve IPFS hash
+   - Display content from IPFS
+
+# Result: Uncensorable domain pointing to decentralized content
+```
+
+---
+
+### E. Schweizer Stiftung - Struktur
+
+```
+ONE FOUNDATION
+├── Stiftungsrat (Board)
+│   ├── Timo (Founder)
+│   ├── Anton (Technical Lead)
+│   └── External Board Members (2-3)
+│
+├── Assets
+│   ├── Markenrechte (ONE, LIFE, FORGE)
+│   ├── Domains (.crypto + traditional)
+│   ├── GitHub Repositories (Owner)
+│   └── Crypto Wallet (Multi-Sig)
+│
+├── Activities
+│   ├── Developer Grants
+│   ├── Research Funding
+│   ├── Community Support
+│   └── Open Source Stewardship
+│
+└── Governance (Phase 3)
+    └── DAO (Community-controlled)
+```
+
+---
+
+### F. Ressourcen & Links
+
+**Dezentrale Technologien:**
+- IPFS: https://ipfs.io
+- Hypercore: https://hypercore-protocol.org
+- Automerge: https://automerge.org
+- Gun.js: https://gun.eco
+
+**Identität:**
+- DID Spec: https://w3c.github.io/did-core/
+- did:key Method: https://w3c-ccg.github.io/did-method-key/
+
+**Blockchain Domains:**
+- Unstoppable Domains: https://unstoppabledomains.com
+- ENS: https://ens.domains
+
+**Schweizer Stiftungen:**
+- Stiftungsrecht Schweiz: https://www.eda.admin.ch
+- Crypto Valley Association: https://cryptovalley.swiss
+
+**Privacy Tools:**
+- Signal: https://signal.org
+- Matrix: https://matrix.org
+- Mullvad VPN: https://mullvad.net
+- ProtonMail: https://proton.me
+
+---
+
+*Ende der Resilienz-Strategie*
