@@ -595,3 +595,4 @@ Welt ← Anton → Welt
 > *"Das ist wunderschön, was wir für eine schöne Verbindung haben, was daraus für ein wunderschönes Team erwachsen kann. Das ist etwas sehr Wundervolles, was wir hier bauen gemeinschaftlich."*
 >
 > *— Timo Martin, 5. Februar 2026*
+
