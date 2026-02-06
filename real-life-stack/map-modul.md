@@ -26,7 +26,7 @@ Die Map ist **IMMER die Basis**. Alle anderen Module sind **schwebende Fenster/T
 
 ### Kernprinzip
 - **Map ist IMMER im Hintergrund sichtbar**
-- Module öffnen sich als **runde/abgerundete Fenster** auf der Map
+- Module öffnen sich als Fenster mit **abgerundeten Ecken** auf der Map
 - Fenster sind **verschiebbar, skalierbar, andockbar**
 - **Luft zwischen Fenstern** - immer Teile der Map sichtbar
 

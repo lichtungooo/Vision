@@ -41,7 +41,7 @@ Die **Map ist IMMER die Basis**. Alle anderen Module sind **schwebende Fenster/T
 
 ### Floating-Window-Architektur:
 - Map ist immer im Hintergrund sichtbar
-- Module öffnen sich als runde/abgerundete Fenster auf der Map
+- Module öffnen sich als Fenster mit **abgerundeten Ecken** auf der Map
 - Fenster sind **verschiebbar, skalierbar, andockbar**
 - **Luft zwischen Fenstern** - immer Teile der Map sichtbar
 - Desktop: 4 Fenster gleichzeitig möglich (z.B. Kalender oben-links, Profil oben-rechts, Avatar unten-rechts, Quest-Log unten-links)
@@ -473,11 +473,41 @@ Die **Map ist IMMER die Basis**. Alle anderen Module sind **schwebende Fenster/T
 - Entscheidungs-Modul (Abstimmungs-Erinnerungen)
 - Community-Modul (Community-Updates)
 
-**Dokumentation:** [notifications-modul.md](notifications-modul.md) (TODO)
+**Dokumentation:** [notifications-modul.md](notifications-modul.md)
 
 ---
 
-### 12. Avatar-Modul
+### 12. Health-Modul (Gesundheits-Modul)
+**Status:** NEU - Konzept
+**Zweck:** Hilfe zur Selbsthilfe im Bereich Gesundheit - altes Wissen, Erfahrungsaustausch
+
+**WICHTIG:** KEINE Heilversprechen! Hilfe zur Selbsthilfe, jeder ist selbst verantwortlich.
+
+**Hauptfunktionen:**
+- **Gesundheitskreise:** Lokale Gruppen (Reiki, Yoga, Homöopathie, Wildkräuter)
+- **Gesundheits-Quests:** Fasten, Wildkräuter, Yoga-Challenge, zuckerfrei, Meditation
+- **Wissensdatenbank Integration:** Heilkräuter, Rezepte, Studien, Erfahrungsberichte
+- **Marktplatz Integration:** Heilkräuter, gesunde Lebensmittel, Nahrungsergänzungsmittel
+- **Psychosomatik:** Krankheit als Spiegel der Psyche verstehen
+- **Altes Wissen:** Ayurveda, TCM, germanische Heilkräuter, Alchemie, Homöopathie
+
+**Komponenten (im Profil/Dashboard):**
+- Health-Vorschau (Gesundheitskreise, laufende Quests, letzte Einträge)
+
+**Verknüpfungen:**
+- Quest-Modul (Gesundheits-Quests, Skills: Gesundheitsbewusstsein)
+- Wissensdatenbank-Modul (Heilkräuter, Rezepte, Studien)
+- Marktplatz-Modul (Heilkräuter, gesunde Lebensmittel)
+- Map-Modul (Gesundheitskreise auf Map)
+- Kalender-Modul (Treffen, Workshops)
+- Community-Modul (Gesundheitskreise bilden)
+- Web of Trust (Moderation, Qualitätskontrolle)
+
+**Dokumentation:** [health-modul.md](health-modul.md)
+
+---
+
+### 13. Avatar-Modul
 **Status:** Konzept (Teil des Quest-Moduls)
 **Zweck:** Visueller Avatar mit Items als Belohnungen - Motivation & soziale Anerkennung
 
@@ -732,6 +762,7 @@ Die **Map ist IMMER die Basis**. Alle anderen Module sind **schwebende Fenster/T
 14. **Entscheidungs-Modul** (Konsens/Konsent, Umfragen, Kredit-Vergabe)
 15. **Wissensdatenbank-Modul** (Reddit-style Q&A, Voting)
 16. **AI-Modul / Eli-Modul** (Quest-Hilfe, Suche, Discovery)
+17. **Health-Modul** (Gesundheit, Hilfe zur Selbsthilfe, altes Wissen)
 
 ### Abhängigkeiten (CRITICAL!):
 
