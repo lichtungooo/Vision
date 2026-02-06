@@ -561,3 +561,4 @@ Nur: Menschen, Würde, Potenzialentfaltung.
 *WebSearch-Budget erreicht - weitere Recherche folgt*
 
 **Status:** 🟡 In Arbeit - 70% komplett
+
