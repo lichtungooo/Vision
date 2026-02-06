@@ -701,3 +701,4 @@ Nicht irgendwann. Jetzt.
 > "They took Meta and used it for consumption.
 > We take ONE and use it for transformation.
 > That's the difference."
+
