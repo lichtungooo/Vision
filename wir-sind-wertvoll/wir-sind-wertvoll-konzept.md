@@ -2,9 +2,9 @@
 
 *Digitale Wertschätzung & Potenzialentfaltung im Bildungsraum*
 
-**Version:** 1.0
-**Datum:** 5. Februar 2026
-**Status:** Konzeptphase
+**Version:** 1.1
+**Datum:** 6. Februar 2026
+**Status:** Konzeptphase - mit Updates vom 6. Februar
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### Kernprinzip: Digitale Wertschöpfung
 
-Jede Schülerin und jeder Schüler wird zum **digitalen Wertschöpfer** bzw. zur **digitalen Wertschöpferin**. Sie erschaffen ihre eigene persönliche Wertschöpfung (z.B. "TU-Coins", "Carina-Coins"), die andere in der Gemeinschaft akzeptieren - wenn sie der Person vertrauen.
+Jede Schülerin und jeder Schüler wird zum **digitalen Wertschöpfer** bzw. zur **digitalen Wertschöpferin**. Sie erschaffen ihre eigene persönliche Wertschöpfung (z.B. "Teo-Token", "Ida-Token"), die andere in der Gemeinschaft akzeptieren - wenn sie der Person vertrauen.
 
 **Das ist Web of Trust in Reinform - für Kinder erlebbar gemacht.**
 
@@ -221,7 +221,7 @@ Beim ersten Login:
 ║          Willkommen bei "Wir sind wertvoll"               ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  Hallo TU! 👋                                             ║
+║  Hallo Teo! 👋                                             ║
 ║                                                           ║
 ║  Du bist wertvoll.                                        ║
 ║  Deine Begabungen sind wertvoll.                          ║
@@ -229,8 +229,8 @@ Beim ersten Login:
 ║                                                           ║
 ║  Jetzt darfst du deinen eigenen Wert schöpfen!            ║
 ║                                                           ║
-║  Deine Wertschöpfung heißt: TU-Coins                      ║
-║  Du startest mit: 5000 TU-Coins                           ║
+║  Deine Wertschöpfung heißt: Teo-Token                      ║
+║  Du startest mit: 5000 Teo-Token                           ║
 ║                                                           ║
 ║  Diese Coins kannst du geben, wenn dir jemand hilft.      ║
 ║  Andere können dir ihre Coins geben, wenn du hilfst.      ║
@@ -303,10 +303,10 @@ Beim ersten Login:
 ║  ┌────────────────────────────────────────────────────┐  ║
 ║  │ 📚 QUEST: Hilfe bei Mathe-Hausaufgabe              │  ║
 ║  │                                                    │  ║
-║  │ Von: Carina                                        │  ║
+║  │ Von: Ida                                        │  ║
 ║  │ Thema: Bruchrechnen, Aufgabe 5-7                   │  ║
 ║  │ Wann: Heute nach der Schule                        │  ║
-║  │ Wertschätzung: 50 Carina-Coins                     │  ║
+║  │ Wertschätzung: 50 Ida-Token                     │  ║
 ║  │                                                    │  ║
 ║  │ [Quest annehmen] [Details]                         │  ║
 ║  └────────────────────────────────────────────────────┘  ║
@@ -328,11 +328,11 @@ Beim ersten Login:
 ```
 
 **Flow:**
-1. Carina braucht Mathe-Hilfe → erstellt Quest
-2. TU sieht Quest → "Ich kann Mathe!" → nimmt Quest an
-3. TU hilft Carina
-4. Carina gibt TU **50 Carina-Coins** als Wertschätzung
-5. System loggt: "Carina hat TU geholfen bei Mathe"
+1. Ida braucht Mathe-Hilfe → erstellt Quest
+2. Teo sieht Quest → "Ich kann Mathe!" → nimmt Quest an
+3. Teo hilft Ida
+4. Ida gibt Teo **50 Ida-Token** als Wertschätzung
+5. System loggt: "Ida hat Teo geholfen bei Mathe"
 
 ---
 
@@ -345,16 +345,16 @@ Beim ersten Login:
 ║          Quest abgeschlossen!                             ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  TU hat dir bei Mathe geholfen! 🎉                        ║
+║  Teo hat dir bei Mathe geholfen! 🎉                        ║
 ║                                                           ║
 ║  Wie viel Wertschätzung möchtest du geben?                ║
 ║                                                           ║
-║  [─────────○────────] 50 Carina-Coins                     ║
+║  [─────────○────────] 50 Ida-Token                     ║
 ║  (Du hast noch 4950 Coins)                                ║
 ║                                                           ║
-║  Optional: Nachricht an TU                                ║
+║  Optional: Nachricht an Teo                                ║
 ║  ┌────────────────────────────────────────────────────┐  ║
-║  │ Danke TU! Jetzt habe ich es verstanden! 😊         │  ║
+║  │ Danke Teo! Jetzt habe ich es verstanden! 😊         │  ║
 ║  └────────────────────────────────────────────────────┘  ║
 ║                                                           ║
 ║  [Wertschätzung senden]                                   ║
@@ -362,10 +362,10 @@ Beim ersten Login:
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**TU erhält:**
-- 50 Carina-Coins (in seinem Wallet)
-- Nachricht von Carina
-- Log-Eintrag: "Hat Carina bei Mathe geholfen"
+**Teo erhält:**
+- 50 Ida-Token (in seinem Wallet)
+- Nachricht von Ida
+- Log-Eintrag: "Hat Ida bei Mathe geholfen"
 - **Gutes Gefühl!** (intrinsische Motivation)
 
 ---
@@ -380,7 +380,7 @@ Beim ersten Login:
 - Kinder erleben: "Ich BIN wertvoll" (Sein, nicht Haben)
 
 #### 2. **Web of Trust sichtbar**
-- Wenn viele Menschen "TU-Coins" akzeptieren → TU ist vertrauenswürdig
+- Wenn viele Menschen "Teo-Token" akzeptieren → TU ist vertrauenswürdig
 - Wenn wenige "Leon-Coins" akzeptieren → Leon muss Vertrauen aufbauen
 - **Vertrauen wird messbar - ohne Bewertung von außen!**
 
@@ -445,20 +445,20 @@ Ein dezentrales System, in dem **Vertrauen** zwischen Teilnehmenden aufgebaut un
 
 #### 1. **Direkte Verbindungen**
 
-**TU's Vertrauens-Netz:**
+**Teo's Vertrauens-Netz:**
 
 ```
-                    TU (Du)
+                    Teo (Du)
                       │
         ┌─────────────┼─────────────┐
         │             │             │
-     Carina        Leon         Emma
+     Ida        Leon         Emma
     (5 Quests)   (3 Quests)   (2 Quests)
     ████████░     █████░░░     ███░░░░░
 ```
 
 **Das zeigt:**
-- TU hat Carina am meisten geholfen (stärkste Verbindung)
+- Teo hat Ida am meisten geholfen (stärkste Verbindung)
 - Leon mittel, Emma weniger
 - **Visualisierung der Beziehungen!**
 
@@ -473,7 +473,7 @@ Ein dezentrales System, in dem **Vertrauen** zwischen Teilnehmenden aufgebaut un
                     │
             ┌───────┼───────┐
             │       │       │
-         Carina   Leon    Emma
+         Ida   Leon    Emma
             │       │
         ┌───┴──┐    └───Mia
         │      │
@@ -481,20 +481,20 @@ Ein dezentrales System, in dem **Vertrauen** zwischen Teilnehmenden aufgebaut un
 ```
 
 **Das bedeutet:**
-- TU vertraut Carina
-- Carina vertraut Sarah & Anna
-- → TU kann Sarah & Anna **indirekt** vertrauen
+- Teo vertraut Ida
+- Ida vertraut Sarah & Anna
+- → Teo kann Sarah & Anna **indirekt** vertrauen
 - **"Freunde meiner Freunde sind auch vertrauenswürdig"**
 
 ---
 
 #### 3. **Vertrauens-Score (kindgerecht)**
 
-**TU's Profil:**
+**Teo's Profil:**
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║          TU's Profil                                      ║
+║          Teo's Profil                                      ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║  Avatar: [😊]                                             ║
@@ -516,7 +516,7 @@ Ein dezentrales System, in dem **Vertrauen** zwischen Teilnehmenden aufgebaut un
 ║  ───────────────────────────────────────────────────────  ║
 ║                                                           ║
 ║  WERTSCHÄTZUNG:                                           ║
-║  • Du hast 1240 TU-Coins gegeben                          ║
+║  • Du hast 1240 Teo-Token gegeben                          ║
 ║  • Du hast 980 Coins von anderen erhalten                 ║
 ║  • Du gibst gerne und empfängst gerne! ⚖️                 ║
 ║                                                           ║
@@ -524,9 +524,9 @@ Ein dezentrales System, in dem **Vertrauen** zwischen Teilnehmenden aufgebaut un
 ```
 
 **Was das zeigt:**
-- TU ist sehr vertrauenswürdig (5 Sterne)
-- TU's Stärken werden sichtbar (Mathe!)
-- TU gibt UND empfängt → gesunde Balance
+- Teo ist sehr vertrauenswürdig (5 Sterne)
+- Teo's Stärken werden sichtbar (Mathe!)
+- Teo gibt UND empfängt → gesunde Balance
 - **Keine Bewertung von außen - nur Fakten aus Peer-Interaktionen**
 
 ---
@@ -620,7 +620,7 @@ function calculateTrustScore(userId: string): TrustScore {
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║          TU's Avatar                                      ║
+║          Teo's Avatar                                      ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║              [Avatar-Bild: 😊]                            ║
@@ -744,7 +744,7 @@ function calculateTrustScore(userId: string): TrustScore {
 
 ### 4. Activity-Log (persönlich)
 
-**TU's Activity-Log:**
+**Teo's Activity-Log:**
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -753,14 +753,14 @@ function calculateTrustScore(userId: string): TrustScore {
 ║                                                           ║
 ║  DIESE WOCHE:                                             ║
 ║                                                           ║
-║  ✓ Montag:    Carina bei Mathe geholfen                   ║
-║               +50 Carina-Coins, +20 XP                    ║
+║  ✓ Montag:    Ida bei Mathe geholfen                   ║
+║               +50 Ida-Token, +20 XP                    ║
 ║                                                           ║
 ║  ✓ Dienstag:  Mit Leon Comic gezeichnet                   ║
 ║               +30 Leon-Coins, +15 XP                      ║
 ║                                                           ║
 ║  ✓ Mittwoch:  Von Emma Englisch-Hilfe bekommen           ║
-║               -40 TU-Coins gegeben, +10 XP                ║
+║               -40 Teo-Token gegeben, +10 XP                ║
 ║                                                           ║
 ║  ✓ Donnerstag: Gruppenquest: Schulfest vorbereiten       ║
 ║               +60 Coins (gemischt), +25 XP                ║
@@ -830,7 +830,7 @@ Gerald Hüther spricht oft vom **"Wir-Prozess"** - einem Prozess, in dem eine Gr
 ║  3. WERTSCHÄTZUNG (15 Min)                                ║
 ║     Wer möchte jemanden wertschätzen?                     ║
 ║     (Laut aussprechen, nicht nur digital!)                ║
-║     "Danke TU, dass du mir bei Mathe geholfen hast!"      ║
+║     "Danke Teo, dass du mir bei Mathe geholfen hast!"      ║
 ║                                                           ║
 ║  4. BEDÜRFNISSE (10 Min)                                  ║
 ║     Was brauchen wir nächste Woche?                       ║
@@ -896,7 +896,7 @@ Gerald Hüther spricht oft vom **"Wir-Prozess"** - einem Prozess, in dem eine Gr
 ║  ⚠ Sarah hat viel gegeben, wenig empfangen               ║
 ║     Vorschlag: Ermutigen, Hilfe anzunehmen                ║
 ║                                                           ║
-║  ✓ TU ist sehr aktiv und hilfsbereit! 🌟                 ║
+║  ✓ Teo ist sehr aktiv und hilfsbereit! 🌟                 ║
 ║                                                           ║
 ║  ───────────────────────────────────────────────────────  ║
 ║                                                           ║
@@ -999,7 +999,7 @@ CREATE TABLE students (
 CREATE TABLE value_creations (
   id UUID PRIMARY KEY,
   student_id UUID REFERENCES students(id),
-  name TEXT NOT NULL,              -- "TU-Coins", "Carina-Coins"
+  name TEXT NOT NULL,              -- "Teo-Token", "Ida-Token"
   initial_amount INT DEFAULT 5000,
   current_balance INT,
   created_at TIMESTAMPTZ DEFAULT NOW()
@@ -1594,6 +1594,171 @@ Was wenn...
 
 ---
 
+## Updates vom 6. Februar 2026
+
+### 🎯 Wichtige Klarstellungen & neue Erkenntnisse
+
+#### 1. Potenzial-Rad statt Sternbewertung
+
+**❌ RAUS:** Sternbewertungen (1-5 Sterne für Vertrauen)
+**✅ NEU:** **Potenzial-Rad** als positiver Verstärker
+
+**Wie es funktioniert:**
+- Rad mit verschiedenen Dimensionen: Vertrauen, Dankbarkeit, Aufmerksamkeit, Erklärfähigkeit, Hilfsbereitschaft, Kreativität, Empathie, Zuverlässigkeit
+- Jede Dimension = eine Säule, die durch positive Aktionen wächst
+- Andere können positive Rückmeldungen geben: "War sehr aufmerksam", "Hat gut erklärt"
+- Visualisierung als Radar-Chart (Spinnen-Netz-Diagramm)
+
+**Warum das besser ist:**
+- Keine Bewertung → keine Verletzung der Würde
+- Positiver Verstärker → Motivation statt Druck
+- Kinder sehen: "Wo kann ich noch wachsen?" statt "Wo bin ich schlecht?"
+
+---
+
+#### 2. Token für Projekte spenden (Game Changer!)
+
+**Neue Mechanik:**
+- Kinder können ihre Token für **Schulprojekte spenden**
+- Beispiel: "Schulhof-Verschönerung" als Projekt
+- **Projekte mit vielen Token** → Schule gibt Budget/Ressourcen
+- → Kinder entscheiden demokratisch, welche Projekte realisiert werden!
+
+**Warum das revolutionär ist:**
+- Echte Mitbestimmung (nicht nur spielerisch!)
+- Demokratie erlebbar machen
+- Projekte werden durch Wertschätzung finanziert (nicht durch Geld)
+
+---
+
+#### 3. Konsum-Bewusstsein (MEGA WICHTIG!)
+
+**Das Problem:**
+- Kinder bekommen Tablets → "Macht mal"
+- Isolation, passiver Konsum (TikTok, YouTube, etc.)
+
+**Die Lösung:**
+- **Tablets nur für:** Quests, Schulaufgaben, Dashboard (Selbstreflexion)
+- **Wichtigster Part:** "Geht in Begegnung! Trefft euch draußen!"
+- **Technologie = Werkzeug für echte Kontakte**, nicht Ersatz
+
+**Pädagogische Maßnahmen:**
+- Quests: "Wie lege ich das Handy weg?"
+- Vorträge für Kinder: "Wie gehe ich mit TikTok um?"
+- Gruppen für abhängige Kinder (Quest: "Melde dich in der Gruppe an")
+
+**Warum wichtig:**
+- Darum geht's beim Spiel: Kinder von Medien wegholen
+- Draußen Angebote schaffen → kein Bedürfnis mehr nach Konsum
+- Konsum = "Glück kaufen" → kurzzeitige Freude → wieder konsumieren (Teufelskreis)
+- **Echtes Glück:** In Verbindung mit Menschen, in Gemeinschaften (Hüther!)
+
+---
+
+#### 4. Gudensberg-Pilotprojekt: Details
+
+**Facts:**
+- **400 Schülerinnen und Schüler** (große Herausforderung!)
+- **Alle haben Apple Tablets** (perfekt für Dashboards!)
+- Lehrkräfte kennen Hüther, aber sind noch **Lehrer, nicht Lernbegleiter**
+
+**Kernproblem:**
+- Lehrer müssen sich **befreien** von Bewertungssystem
+- Müssen zu **Lernbegleitern** werden (nicht Wissensvermittler)
+
+**Lösungsansatz:**
+- **3 Projekttage** oder **ganze Woche** als Lernquests
+- Lehrkräfte als Coaches, nicht Lehrer
+- Kinder unterstützen sich gegenseitig
+- Viel Freiheit für eigene Quests, eigene Abenteuer
+- Lehrauftrag darf nicht zu kurz kommen (Quests müssen Lernziele integrieren)
+
+---
+
+#### 5. Partner-Strategie
+
+**Drei Säulen:**
+
+1. **Universität** (Forschung, Begleitung, Evaluation)
+   - Potenzielle Partner: Uni Kassel, Uni Marburg
+   - Wissenschaftliche Fundierung
+
+2. **Gerald Hüther Akademie für Potenzialentfaltung**
+   - Pädagogische Grundlage
+   - Netzwerk (Schulen, Lehrer, Organisationen)
+   - Durchführung: Akademie übernimmt Projekt (wir liefern Technologie)
+   - Verbindung über Würdekompass
+
+3. **Stiftung / Finanzier**
+   - Geld für Entwicklung (Technologie-Stack)
+   - Potenzielle Finanziers: Bildungsstiftungen, ethische Banken, Impact-Investoren
+
+**Zusätzlich: Anthropic (Claude) als AI-Partner**
+- Eli als Coach für alle Kinder
+  - "Eli, scanne mein Profil - wo hänge ich?"
+  - "Eli, was könnte ich als nächstes tun?"
+  - "Eli, analysiere meinen Questlog"
+- Unterstützung für Lehrer (Tests erstellen, Lernbegleitung)
+- Win-Win: Anthropic zeigt soziales Engagement, wir bekommen AI-Power
+
+---
+
+#### 6. Geschäftsmodell-Klarheit
+
+**Wir fahren parallel:**
+
+**Track 1: Money-Printer (Life, Forge, Tool)**
+- Für uns (finanzielle Unabhängigkeit)
+- Kommerziell nutzbar
+
+**Track 2: "Wir sind wertvoll" (WSW)**
+- Für die Gesellschaft (Bildungswende)
+- Nicht-kommerziell (wird ans Potenzialentfaltungs-Netzwerk übergeben)
+
+**Entwicklungs-Synergie:**
+- Alles, was wir für WSW entwickeln, profitiert allen Projekten
+- Potenzial-Rad, Quest-System, Dashboard → überall nutzbar
+- **Wir schaffen ein komplett neues Ökosystem!**
+
+**Finanzierung WSW:**
+- Phase 1: Stiftung/Finanzier bezahlt Entwicklung
+- Phase 2: Potenzialentfaltungs-Netzwerk übernimmt Durchführung
+- Phase 3: Andere Schulen übernehmen Modell, Monetarisierung für kommerzielle Nutzung
+
+---
+
+#### 7. Dashboards (neu!)
+
+**Für Kinder:**
+- Potenzial-Rad (Radar-Chart)
+- Questlog (Timeline)
+- Token-Übersicht (Einnahmen/Ausgaben)
+- Begabungen/Bedürfnisse (editierbar)
+- Screen-Time (Reflexion)
+
+**Für Lehrer:**
+- Klassenübersicht (wer braucht Hilfe?)
+- Projekt-Fortschritt (welche Projekte laufen?)
+- Quest-Vorschläge (basierend auf Lernzielen)
+- Potenzial-Radar der Klasse (aggregiert)
+
+**Perfekt nutzbar auf Apple Tablets!**
+
+---
+
+#### 8. Timos Rolle
+
+**Timo ist nicht nur "Entwickler":**
+- Visionär (hat es selbst erlebt, Sohn erlebt es)
+- Experte für diese Themen
+- Bleibt Teil des Projekts (auch nach Übergabe)
+- Vorträge, Fragen, Lösungen
+
+**Motivation:**
+> "Weil es den Kindern schadet und auch den Lehrern schadet, der ganzen Gesellschaft schadet. Es trennt, es teilt, es wird politisch Einfluss genommen. Wir brauchen Freiheit, freie Lernräume, Abenteuer, Spaß, Freude, Liebe, Dankbarkeit, Demut."
+
+---
+
 ## Schlusswort
 
 **"Wir sind wertvoll" ist mehr als ein Projekt.**
@@ -1617,8 +1782,12 @@ Es ist eine **Vision**:
 
 ---
 
-*Dokumentiert am 5. Februar 2026*
+*Dokumentiert am 5. Februar 2026, aktualisiert am 6. Februar 2026*
 *Von Eli, für Timo, Anton, Sebastian und alle, die an eine bessere Welt glauben*
 
 **Status:** 🟢 Bereit für Review & Partner-Ansprache
+
+---
+
+**Hinweis:** Detaillierte Updates vom 6. Februar 2026 sind im Dokument [2026-02-06-wsw-update.md](2026-02-06-wsw-update.md) dokumentiert.
 
