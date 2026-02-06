@@ -1,71 +1,199 @@
 # Quest-Modul
 
-**Version:** 1.0 (Potenzialentfaltungs-Quest + Utopia Map Konzepte)
+**Version:** 2.0 (Quest-Modul für ALLE - Kinder, Erwachsene, Gemeinschaften, Handwerk, NGOs)
 **Datum:** 6. Februar 2026
-**Status:** Sammlungsphase - Ideen zusammengeführt
+**Status:** Überarbeitet - Quest-Modul ist für JEDEN
 
 ---
 
 ## Kontext
 
-Dieses Dokument vereint alle Ideen für das **Quest-Modul** aus verschiedenen Entwicklungssträngen:
-- **Potenzialentfaltungs-Quest** (für Kinder und Jugendliche)
-- **Utopia Map Quest-Module** (Community-Engagement)
+Dieses Dokument beschreibt das **Quest-Modul** - ein Gamification-System für **ALLE Menschen und Organisationen**:
+- **Kinder & Jugendliche** (Potenzialentfaltung, spielerisches Lernen)
+- **Erwachsene** (Real-World-Abenteuer statt virtuellem Eskapismus)
+- **Handwerk & Ausbildung** (Carpenter-Quests, Ausbildungssuche umgedreht)
+- **Gemeinschaften & Dörfer** (Gemeinsames Engagement)
+- **NGOs & Organisationen** (Community-Building)
+- **Spaces & Räume** (Jeder Raum kann Quests erstellen)
 
 **Wichtige Änderungen gegenüber alten Konzepten:**
+- ❌ **"Primär für Kinder"** → ✅ **Für ALLE gleichberechtigt**
 - ❌ **Badges als separate Sammlung** → ✅ **Avatar-Items als Belohnungen**
-- ❌ **Isoliertes Quest-System** → ✅ **Integration mit Kalender, Karte, Web of Trust**
+- ❌ **Isoliertes Quest-System** → ✅ **Integration mit Kalender, Map, Web of Trust**
+- ❌ **"Utopia Map"** → ✅ **"Map" (konkreter Einstiegspunkt)**
 
 ---
 
 ## Vision & Warum
 
 ### Kernfrage
-**Wie machen wir Engagement sichtbar, motivieren zur Mitgestaltung und verbinden Spiel mit echter Wirkung?**
+**Wie bringen wir Menschen zurück in die reale Welt - mit Abenteuer, Wachstum und echten Begegnungen?**
 
 ### Das Problem
-Kinder und Jugendliche (und Erwachsene!) verbringen Zeit am Bildschirm, oft ohne echte Verbindung zur realen Welt. Gleichzeitig gibt es viele Möglichkeiten für:
-- Persönliches Wachstum
-- Gemeinschaftliches Handeln
-- Potenzialentfaltung
+Menschen verbringen Zeit am Bildschirm - oft um **aus der Realität zu flüchten** (Videospiele, soziale Medien, Streaming). Gleichzeitig gibt es unendliche Möglichkeiten für:
+- Persönliches Wachstum (Handwerk lernen, Fähigkeiten entwickeln)
+- Gemeinschaftliches Handeln (Repair Cafés, Müllsammelaktionen, gemeinsames Kochen)
+- Potenzialentfaltung (neue Talente entdecken, Berufung finden)
+- Echte Abenteuer (Wildkräuterwanderung, Bogenschießen, Bushcraft)
 
 ...die aber nicht sichtbar, nicht gamifiziert und nicht vernetzt sind.
 
 ### Die Lösung
 **Quests = Reale Herausforderungen mit spielerischer Motivation**
 
-Statt Technologie zu verteufeln, nutzen wir sie für:
-- ✅ Echte Begegnungen
-- ✅ Persönliches und gemeinschaftliches Wachstum
-- ✅ Sichtbare Entwicklung (Fähigkeitenbaum, Avatar, Questlog)
-- ✅ Verbindung zur lokalen Umgebung (Karte)
+Statt Menschen zu verurteilen, **nutzen wir Technologie, um sie zurück in die Realität zu holen**:
+- ✅ Erwachsene spielen Rollenspiele, um der Realität zu entkommen → **Wir bringen das Abenteuer IN die Realität**
+- ✅ Jugendliche suchen Challenges auf TikTok → **Wir bieten echte Challenges mit echtem Impact**
+- ✅ Handwerker suchen Azubis → **Wir drehen das Spiel um: Jugendliche leveln hoch, Handwerker machen Angebote**
+- ✅ Gemeinschaften wollen Engagement fördern → **Wir machen Engagement sichtbar und belohnen es**
 
 ### Besonderheiten
 
 1. **Real-World-First:** Quests finden in der echten Welt statt (nicht virtuell)
-2. **Community-Created:** Jeder kann Quests erstellen (Eltern, Lehrer, Organisationen, Kinder)
-3. **Potenzialentfaltung:** Basierend auf Gerald Hüthers Ansätzen (Seele, Geist, Körper, Bewusstsein)
-4. **Avatar-Belohnungen:** Statt abstrakte Badges → konkrete Items für den Avatar
-5. **Integration:** Karte, Kalender, Web of Trust, Fähigkeitenbaum
+2. **Für ALLE:** Kinder, Erwachsene, Handwerk, Gemeinschaften, NGOs, Spaces - JEDER kann Quests erstellen UND durchführen
+3. **Questmaster-Rolle:** Menschen, die Spaß daran haben, Quests zu kuratieren und zu teilen
+4. **Quest-Sharing:** Quests können kopiert werden (Hamburg → München → Paris → USA)
+5. **Quest-Reihen:** Serie von Quests (z.B. Carpenter Level 1-10 → "Goldene Säge")
+6. **Handwerk-Revolution:** Azubi-Suche umgedreht - Jugendliche leveln hoch, Handwerker werben um SIE
+7. **Positive Ratings:** Wie viele haben teilgenommen? Was sagen sie? (KEINE negativen Bewertungen)
+8. **Avatar-Belohnungen:** Statt abstrakte Badges → konkrete Items für den Avatar
+9. **Integration:** Map (Einstiegspunkt), Kalender, Web of Trust, Fähigkeitenbaum
 
 ---
 
-## Zielgruppen
+## Zielgruppen (ALLE gleichberechtigt!)
 
-### Primär: Kinder und Jugendliche
+**WICHTIG:** Es gibt KEINE Hierarchie (primär/sekundär). ALLE Gruppen sind gleichberechtigt - jeder kann Quests erstellen UND durchführen.
+
+### 1. Kinder & Jugendliche
 - Wollen spielerisch lernen und wachsen
-- Brauchen Motivation durch sichtbare Belohnungen
+- Brauchen Motivation durch sichtbare Belohnungen (Avatar-Items, Level-Ups)
 - Wollen Teil einer Community sein
+- **Beispiel-Quests:** "Wildkräuter sammeln", "Rasen mähen", "10 Liegestütze", "Gemeinsam musizieren"
 
-### Sekundär: Eltern, Lehrer, Organisationen
-- Wollen Kinder motivieren (ohne Zwang)
-- Können Quests erstellen (z.B. "Rasenmähen", "Wildkräuter sammeln", "Gemeinsam musizieren")
-- Sehen Fortschritte der Kinder
+### 2. Erwachsene
+- Wollen echte Abenteuer erleben (statt virtuellem Eskapismus)
+- Suchen nach Selbstentwicklung und neuen Fähigkeiten
+- Wollen bewusster konsumieren (Konsumbewusstsein)
+- Wollen Gemeinschaft erleben
+- **Beispiel-Quests:** "Wildkräuterwanderung", "Repair Café besuchen", "7 Tage zuckerfrei", "Bogenschießen lernen"
 
-### Tertiär: NGOs, Gemeinschaften, ethische Unternehmen
-- Wollen Community-Engagement fördern
-- Können öffentliche Quests erstellen (z.B. "Müllsammelaktion", "Repair Café")
-- Bekommen Sichtbarkeit für ihre Arbeit
+### 3. Handwerk & Ausbildung (REVOLUTION!)
+**Das Spiel wird umgedreht:**
+- **Traditionell:** Jugendliche bewerben sich bei Handwerkern
+- **NEU:** Handwerker erstellen Quests → Jugendliche leveln hoch → Handwerker machen IHNEN Angebote
+
+**Beispiel:**
+- Schreiner erstellt "Carpenter Quest 1-10" (Serie)
+- Jugendlicher macht alle 10 Quests durch
+- Schreiner sieht: "Wow, Level 5 Carpenter! Der ist talentiert!"
+- Schreiner macht Angebot: "Willst du bei mir Azubi werden?"
+- Jugendlicher sagt: "Mach mir ein Angebot!" (nicht umgekehrt!)
+
+**Beispiel-Quests:** "Holz sägen lernen", "Stuhl reparieren", "Tisch bauen", "Drechseln ausprobieren"
+
+### 4. Eltern, Lehrer, Mentor*innen
+- Erstellen Quests für Kinder/Jugendliche (z.B. "Rasenmähen", "Hausaufgaben erledigen")
+- Sehen Fortschritte ihrer Schützlinge
+- Können Belohnungen definieren
+
+### 5. Gemeinschaften, Dörfer, Gemeinden
+- Fördern Community-Engagement (z.B. "Müllsammelaktion im Park")
+- Machen lokale Events sichtbar
+- Stärken Zusammenhalt
+- **Beispiel-Quests:** "Gemeinschaftsgarten anlegen", "Nachbarschaftsfest organisieren", "Repair Café"
+
+### 6. NGOs, Vereine, Organisationen
+- Wollen Mission verbreiten (z.B. Umweltschutz, Bildung)
+- Erreichen neue Zielgruppen durch Gamification
+- Machen Impact sichtbar
+- **Beispiel-Quests:** "Plastikmüll sammeln", "Baum pflanzen", "Workshop besuchen"
+
+### 7. Spaces, Räume, Orte
+- Jeder physische Raum kann Quests erstellen (Makerspace, Bibliothek, Jugendzentrum, Coworking Space)
+- **Beispiel-Quests:** "3D-Drucker ausprobieren", "Buch lesen und Review schreiben", "Tischtennis-Turnier"
+
+### 8. Questmaster (besondere Rolle!)
+**Menschen, die LIEBEN, Quests zu kuratieren:**
+- Erstellen kreative, inspirierende Quests
+- Kopieren erfolgreiche Quests aus anderen Städten
+- Teilen ihre besten Quests weltweit (Hamburg → München → Paris → USA)
+- Werden zur Inspiration für andere
+- **Quest-Reihen:** Erstellen Serie von Quests (z.B. "Naturkenner Level 1-10")
+
+---
+
+## Quest-Sharing & Quest-Reihen (CRITICAL!)
+
+### Quest-Sharing: Von Hamburg nach Paris
+**Quests können kopiert und geteilt werden - weltweit!**
+
+**Wie funktioniert es?**
+1. Quest-Master in Hamburg erstellt "Wildkräuterwanderung Alsterpark"
+2. Quest ist erfolgreich → viele Teilnehmer, positive Resonanz
+3. Quest-Master in München sieht Quest → "Kopieren" Button
+4. München-Version: "Wildkräuterwanderung Englischer Garten" (angepasst an lokalen Ort)
+5. Quest verbreitet sich: Paris → London → New York → Tokio
+
+**Warum wichtig?**
+- ✅ **Inspiration:** Erfolgreiche Quests werden zum Vorbild
+- ✅ **Skalierung:** Gute Ideen verbreiten sich organisch
+- ✅ **Lokale Anpassung:** Jeder passt Quest an seine Region an
+- ✅ **Questmaster-Community:** Questmaster tauschen sich aus, teilen Best Practices
+
+**Beispiele:**
+- "Repair Café" Quest → weltweit kopiert, jeder passt an seinen Space an
+- "7 Tage zuckerfrei" → funktioniert überall gleich
+- "Plastikfasten Challenge" → globale Bewegung
+
+### Quest-Reihen: Progression & Meisterschaft
+**Serie von Quests mit aufsteigendem Schwierigkeitsgrad**
+
+**Beispiel: Carpenter-Reihe**
+1. **Carpenter Quest 1:** Holzarten kennenlernen (50 XP)
+2. **Carpenter Quest 2:** Sägen lernen (75 XP)
+3. **Carpenter Quest 3:** Hobeln und Schleifen (100 XP)
+4. **Carpenter Quest 4:** Stuhl reparieren (150 XP)
+5. **Carpenter Quest 5:** Kleinen Tisch bauen (200 XP)
+6. ... (bis Quest 10)
+7. **Carpenter Quest 10:** Eigenes Möbelstück designen & bauen (500 XP + "Goldene Säge" Item)
+
+**Fortschritt:**
+- Nach jeder Quest: Level-Up im "Handwerk"-Skill
+- Nach Quest 10: "Carpenter Level 10" + prestigeträchtige "Goldene Säge"
+- Handwerker sehen: "Wow, der hat alle 10 Carpenter-Quests gemacht!"
+- Handwerker denken: "Den will ICH als Azubi!"
+
+**Weitere Beispiele:**
+- **Naturkenner-Reihe:** 10 Quests über Wildpflanzen, Tiere, Ökosysteme
+- **Sozial-Reihe:** 10 Quests über Empathie, Kommunikation, Gemeinschaft
+- **Konsum-Bewusstsein-Reihe:** 10 Quests über nachhaltigen Konsum (für Erwachsene!)
+
+**Warum wichtig?**
+- ✅ **Langzeit-Motivation:** Nicht nur einzelne Quests, sondern ein Weg zur Meisterschaft
+- ✅ **Sichtbarer Fortschritt:** "Ich bin jetzt Carpenter Level 7!"
+- ✅ **Soziale Anerkennung:** Legendäre Items (wie "Goldene Säge") zeigen Expertise
+- ✅ **Berufsorientierung:** Jugendliche finden durch Quests ihre Begabung
+
+---
+
+## Positive Ratings & Rankings
+
+**WICHTIG:** KEINE negativen Bewertungen! Nur positive Resonanz.
+
+**Was wird gemessen?**
+1. **Teilnehmerzahl:** Wie viele haben teilgenommen?
+2. **Positive Kommentare:** Was sagen die Teilnehmer? (optional, nur freiwillig)
+3. **Wiederholungen:** Wie oft wurde die Quest kopiert? (zeigt Qualität)
+
+**Warum keine negativen Bewertungen?**
+- ❌ Negative Bewertungen demotivieren Quest-Master
+- ❌ Widerspricht unserer Philosophie (Wertschätzung, nicht Kritik)
+- ✅ Positive Resonanz reicht aus, um Qualität zu zeigen
+
+**Beispiel:**
+- Quest "Wildkräuterwanderung": 47 Teilnehmer, 12 Kommentare ("War super!", "Habe viel gelernt"), 8x kopiert
+- Quest "Rasenmähen": 3 Teilnehmer, 0 Kommentare, 0x kopiert → Quest-Master sieht: niedrige Resonanz, kann verbessern
 
 ---
 
@@ -301,23 +429,43 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 
 ---
 
-### Karte (Utopia Map)
+### Map (der zentrale Einstiegspunkt!)
 
-**Quests auf der Karte:**
+**WICHTIG:** Nicht mehr "Utopia Map" (zu abstrakt) → einfach "Map" (konkreter Einstiegspunkt)
+
+**Quests auf der Map:**
 - Jede Quest hat Geo-Koordinaten (oder Adresse)
-- Quest erscheint als Icon auf der Karte
+- Quest erscheint als Icon auf der Map
 - Icon-Typ = Kategorie (z.B. 🌱 Natur, ❤️ Sozial, 🔥 Abenteuer)
 - Farbe = Kategorie
+- Klick auf Icon → Detailansicht, direkt "Teilnehmen" Button
 
-**Filter:**
-- Nach Kategorie (z.B. nur Natur-Quests)
-- Nach Level-Anforderung (z.B. nur Quests ab Level 5)
-- Nach Hashtags (z.B. nur #wildnis)
+**Filter-System (CRITICAL - muss sehr ausgebaut sein!):**
+
+**Quick Filter (immer sichtbar):**
+- **Hashtag-Suche:** #natur, #handwerk, #abenteuer (mit Autocomplete)
+- **Distanz:** Slider (1-100 km Radius)
+- **Kategorie:** Chips (Natur, Sozial, Abenteuer, Lernen, Handwerk, etc.)
+
+**Erweiterte Filter (ausklappbar):**
+- **Level-Anforderung:** "Nur Quests, die ich machen kann" (basierend auf meinem Level)
+- **Teilnehmerzahl:** "Mehr als X Teilnehmer" (zeigt beliebte Quests)
+- **Zeitpunkt:** "Diese Woche", "Dieses Wochenende", "Nächster Monat"
+- **Quest-Typ:** Einzel-Quest, Gruppen-Quest, Quest-Reihe
+- **Belohnung:** "Mit Avatar-Items", "Mit legendären Items"
+- **Kopiert aus:** "Aus Hamburg", "International" (zeigt Herkunft)
+- **Ersteller:** "Von Questmastern", "Von NGOs", "Von Handwerkern"
+
+**Warum so viele Filter?**
+- ✅ **Schneller Einstieg:** Hashtag-Suche + Distanz = sofort Ergebnisse
+- ✅ **Tiefe Exploration:** Erweiterte Filter für Poweruser
+- ✅ **Immer erweiterbar:** Neue Filter können später hinzugefügt werden
 
 **Beispiel:**
-- Karte zeigt 5 Quests in meiner Nähe (10 km Radius)
-- Ich filtere nach #natur → 2 Quests bleiben übrig
-- Ich klicke auf "Wildkräuterwanderung" → Detailansicht
+- Map zeigt 50 Quests in 20 km Radius
+- Ich suche "#handwerk" → 8 Quests bleiben übrig
+- Ich filtere "Mit legendären Items" → 2 Quests
+- Ich klicke auf "Carpenter Quest 10" → Detailansicht → "Teilnehmen"
 
 ---
 
@@ -338,20 +486,104 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 
 ---
 
-### Avatar-System
+### Avatar-System → WICHTIG: Avatar-Modul (FULL MODULE!)
+
+**KRITISCHE ÄNDERUNG:** Avatar ist NICHT nur eine Komponente im Profil, sondern ein **eigenes Modul**.
+
+**Profil zeigt:**
+- Kleine Avatar-Vorschau (Icon-Größe)
+- Klick auf Avatar → **Avatar-Modul öffnet sich** (fullscreen oder Split-Screen)
+
+**Avatar-Modul beinhaltet:**
+- Großer Avatar in der Mitte (interaktiv)
+- Inventar (Grid mit allen Items)
+- Drag & Drop: Items auf Avatar ziehen
+- Avatar-Customization (Farben, Augen, Frisur, etc. - falls wir das wollen)
+- Avatar-Geschichte (welche Items wann erhalten?)
 
 **Avatar als Motivations-Tool:**
 - Items machen Avatar visuell einzigartig
 - Avatar zeigt meinen Fortschritt (z.B. "Waldläufer-Mantel" = Level 5 in Wildnisfähigkeiten)
-
-**Avatar-Customization:**
-- Tab "Mein Avatar" im Profil
-- Drag & Drop: Items aus Inventar auf Avatar ziehen
 - Items können kombiniert werden (z.B. Hut + Mantel + Werkzeug)
 
 **Avatar-Galerie:**
-- Andere Nutzer können meinen Avatar sehen (Profilseite)
+- Andere Nutzer können meinen Avatar sehen (Profilseite, aber klein)
+- Klick auf Avatar → Avatar-Modul öffnet sich
 - "Wow, du hast den goldenen Stern!" → soziale Anerkennung
+
+---
+
+## Module vs. Komponenten (Architecture)
+
+**WICHTIG:** Klarstellung über Module und Komponenten in der Real-Life Stack / Forge Architektur.
+
+### Was ist ein Modul?
+- **Vollständige Feature-Einheit** mit eigener UI, Logik, Datenmodell
+- **Eigenständig aufrufbar** (fullscreen oder Split-Screen auf Desktop)
+- **Konfigurierbar:** Spaces/Communities können wählen, welche Module sie aktivieren
+- **Beispiel:** Quest-Modul, Kalender-Modul, Marktplatz-Modul, Avatar-Modul, Skill-Tree-Modul, Log-Modul
+
+### Was ist eine Komponente?
+- **Teil eines Moduls** oder **kleine Vorschau im Profil**
+- **NICHT eigenständig**, sondern eingebettet
+- **Beispiel:** Avatar-Icon im Profil (Komponente), Mini-Map in Quest-Details (Komponente), Skill-Tree-Vorschau im Profil (Komponente)
+
+### Quest-Modul Architektur
+
+**Folgende sind FULL MODULES (nicht nur Komponenten):**
+
+1. **Quest-Modul**
+   - Quest-Erstellung, Quest-Discovery, Quest-Teilnahme
+   - Integration mit Map, Kalender, Web of Trust
+
+2. **Avatar-Modul**
+   - Voller Avatar-Editor, Inventar, Item-Management
+   - Profil zeigt nur kleine Avatar-Vorschau (Komponente)
+   - Klick → Avatar-Modul öffnet sich
+
+3. **Skill-Tree-Modul**
+   - Kompletter Fähigkeitenbaum (Seele, Geist, Bewusstsein, Körper)
+   - Detailansicht für jede Fähigkeit
+   - XP-Verlauf, Level-Up-Historie
+   - Profil zeigt nur Skill-Tree-Zusammenfassung (Komponente)
+   - Klick → Skill-Tree-Modul öffnet sich
+
+4. **Log-Modul (Questlog)**
+   - Timeline aller abgeschlossenen Quests
+   - Filter, Export, Sharing
+   - Profil zeigt nur "Letzte 3 Quests" (Komponente)
+   - Klick → Log-Modul öffnet sich
+
+**Warum wichtig?**
+- ✅ **Modularität:** Spaces können Module einzeln aktivieren/deaktivieren
+- ✅ **Skalierbarkeit:** Jedes Modul kann unabhängig entwickelt werden
+- ✅ **User Experience:** Profil bleibt übersichtlich (nur Komponenten), Details in Modulen
+- ✅ **Desktop vs. Mobile:** Desktop kann Split-Screen (Profil + Modul), Mobile öffnet Module fullscreen
+
+### Dashboard-Modul (Konzept)
+**Konfigurierbarer Einstiegspunkt für jeden User:**
+
+**Mobile:**
+- Push-Benachrichtigungen (neue Quests in der Nähe, Quest-Einladungen)
+- Dashboard öffnet sich → zeigt Module-Kacheln (Quest-Modul, Kalender, Marktplatz, etc.)
+
+**Desktop:**
+- Split-Screen möglich: Profil links, Modul rechts (z.B. Skill-Tree-Modul)
+- Dashboard-Konfiguration: Jeder User kann wählen, welche Module er sehen will
+
+**Beispiel Desktop:**
+```
+┌──────────────┬────────────────────────┐
+│   Profil     │   Skill-Tree-Modul     │
+│  (Avatar)    │   (vollständiger Baum) │
+│  (Stats)     │                        │
+│  (Module)    │                        │
+└──────────────┴────────────────────────┘
+```
+
+**Beispiel Mobile:**
+- Dashboard zeigt: Quest-Modul-Kachel, Kalender-Kachel, Marktplatz-Kachel
+- Klick auf Kachel → Modul öffnet sich fullscreen
 
 ---
 
@@ -359,15 +591,15 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 
 ### A) Quest entdecken & starten
 
-**US-1: Quests auf der Karte sehen**
+**US-1: Quests auf der Map sehen**
 **Als** Nutzer
-**möchte ich** Quests auf der Karte sehen
+**möchte ich** Quests auf der Map sehen
 **damit** ich Herausforderungen in meiner Umgebung finde.
 
 **Akzeptanzkriterien:**
-- Karte zeigt Quest-Icons (Kategorie-basiert)
+- Map zeigt Quest-Icons (Kategorie-basiert)
 - Klick auf Icon → Detailansicht
-- Filter nach Kategorie, Hashtags, Level
+- Filter nach Kategorie, Hashtags, Level, Distanz (siehe Filter-System)
 
 ---
 
@@ -397,15 +629,16 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 ### B) Quest erstellen
 
 **US-4: Quest erstellen**
-**Als** Nutzer
+**Als** Nutzer (Questmaster, Handwerker, NGO, Eltern, etc.)
 **möchte ich** eine Quest erstellen
-**damit** ich andere zu gemeinsamen Aktionen einlade.
+**damit** ich andere zu gemeinsamen Aktionen einlade oder meine Fähigkeiten teile.
 
 **Akzeptanzkriterien:**
-- Button "+" auf Karte → Formular
-- Felder: Titel, Beschreibung (Markdown-Editor), Ort (GPS oder Adresse), Zeit (optional), Hashtags, Fähigkeitszuordnung, Level-Anforderung, Max. Teilnehmer, Belohnung (XP, Items)
+- Button "+" auf Map → Formular
+- Felder: Titel, Beschreibung (Markdown-Editor), Ort (GPS oder Adresse), Zeit (optional), Hashtags, Fähigkeitszuordnung, Level-Anforderung, Max. Teilnehmer, Belohnung (XP, Items), Quest-Reihe (optional)
 - QR-Code wird automatisch generiert
-- Nach Speicherung: Quest erscheint auf Karte
+- Nach Speicherung: Quest erscheint auf Map
+- Optional: "Quest teilen" Button (für Quest-Sharing)
 
 ---
 
@@ -574,6 +807,11 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 | `createdByUserId` | string | Quest-Master |
 | `createdAt` | datetime | Erstellungszeitpunkt |
 | `updatedAt` | datetime | Letzte Änderung |
+| **`questSeriesId`** | string (optional) | **NEU:** Referenz auf Quest-Reihe (z.B. "carpenter-series") |
+| **`questSeriesPosition`** | integer (optional) | **NEU:** Position in Serie (z.B. 3 von 10) |
+| **`copiedFromQuestId`** | string (optional) | **NEU:** Referenz auf Original-Quest (falls kopiert) |
+| **`timesCopied`** | integer | **NEU:** Wie oft wurde diese Quest kopiert? (für Ranking) |
+| **`participantCount`** | integer | **NEU:** Anzahl Teilnehmer (denormalisiert für Performance) |
 
 ---
 
@@ -590,6 +828,34 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 | `completedAt` | datetime (optional) | Abschluss-Zeitpunkt |
 | `verifiedBy` | string (optional) | Quest-Master oder "qr-code" |
 | `createdAt` | datetime | Teilnahme-Zeitpunkt |
+
+---
+
+### Entität "QuestSeries" (NEU!)
+
+| Feld | Typ | Beschreibung |
+|------|-----|--------------|
+| `id` | string/uuid | Eindeutige ID (z.B. "carpenter-series") |
+| `name` | string | Name der Serie (z.B. "Carpenter-Reihe") |
+| `description` | string | Beschreibung |
+| `totalQuests` | integer | Anzahl Quests in Serie (z.B. 10) |
+| `category` | enum | Kategorie (Handwerk, Natur, Sozial, etc.) |
+| `createdByUserId` | string | Questmaster, der Serie erstellt hat |
+| `createdAt` | datetime | Erstellungszeitpunkt |
+
+---
+
+### Entität "QuestComment" (NEU!)
+
+| Feld | Typ | Beschreibung |
+|------|-----|--------------|
+| `id` | string/uuid | Eindeutige ID |
+| `questId` | string | Referenz auf Quest |
+| `userId` | string | Referenz auf User |
+| `commentText` | string | Positive Rückmeldung (z.B. "War super!") |
+| `createdAt` | datetime | Kommentar-Zeitpunkt |
+
+**WICHTIG:** Nur positive Kommentare erlaubt! Keine negativen Bewertungen.
 
 ---
 
@@ -663,19 +929,28 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 
 ## UI & Navigation
 
-### 1. Karte mit Quest-Icons
+### 1. Map mit Quest-Icons (ZENTRALER EINSTIEGSPUNKT!)
 
 **Ansicht:**
-- Karte (wie Utopia Map)
+- Map (nicht mehr "Utopia Map" - zu abstrakt)
 - Quest-Icons (basierend auf Kategorie):
   - 🌱 Natur (grün)
   - ❤️ Sozial (rot)
   - 🔥 Abenteuer (orange)
   - 🧠 Lernen (blau)
   - 🎨 Kreativ (lila)
+  - 🔨 Handwerk (braun)
+
+**Filter-Bar (SEHR PROMINENT!):**
+- Hashtag-Suche (mit Autocomplete)
+- Distanz-Slider (1-100 km)
+- Kategorie-Chips (Multi-Select)
+- "Erweiterte Filter" Button → öffnet Sidebar mit allen Filtern
 
 **Interaktion:**
 - Klick auf Icon → Quest-Detailansicht (Pop-Up oder Sidebar)
+- Zoom in/out (wie Google Maps)
+- Hashtag-Suche → sofort filtern
 
 ---
 
@@ -684,12 +959,13 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 **Felder:**
 - Titel (Textfeld)
 - Beschreibung (Markdown-Editor mit Vorschau)
-- Ort (Karte: Klick auf Ort oder GPS-Button "Aktueller Standort")
+- Ort (Map: Klick auf Ort oder GPS-Button "Aktueller Standort")
 - Zeit (optional, Date-Time-Picker)
 - Hashtags (Chips mit Autocomplete)
 - Fähigkeitszuordnung (Multi-Select: Seele, Geist, Bewusstsein, Körper → Unterfähigkeiten)
 - Level-Anforderung (Slider: 0-100)
 - Max. Teilnehmer (Numberfield, optional)
+- **Quest-Reihe (NEU!):** Dropdown "Teil einer Serie?" → Quest 1/10, Quest 2/10, etc.
 - Belohnung:
   - XP (Numberfield, z.B. 50)
   - Items (Multi-Select aus Item-Datenbank)
@@ -698,7 +974,8 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 
 **Buttons:**
 - "QR-Code generieren" → zeigt QR-Code an (ausdruckbar)
-- "Speichern" → Quest wird erstellt und auf Karte angezeigt
+- "Speichern" → Quest wird erstellt und auf Map angezeigt
+- **"Quest kopieren" (NEU!):** Für Questmaster - Quest als Vorlage speichern, andere können kopieren
 
 ---
 
@@ -713,15 +990,21 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 - **Hashtags:** Chips (klickbar → zeigt alle Quests mit diesem Hashtag)
 - **Fähigkeiten:** Liste (z.B. "Ökologisches Bewusstsein +50 XP, Motorik +30 XP")
 - **Voraussetzungen:** (falls gesetzt) "Min. Level 5 in #Bogenschießen"
+- **Quest-Reihe:** (falls Teil einer Serie) "Teil 3 von 10 - Carpenter-Reihe"
 - **Belohnung:**
   - XP: "50 XP"
   - Items: Grid mit Item-Icons (hover → Name)
-- **Teilnehmer:** "5 / 10 Teilnehmer" (Fortschrittsbalken)
+- **Teilnehmer:** "47 Teilnehmer" (Fortschrittsbalken, falls Max. Teilnehmer gesetzt)
 - **Beobachter:** "12 Beobachter"
+- **Positive Resonanz (NEU!):**
+  - "8x kopiert" (zeigt Qualität/Beliebtheit)
+  - "12 Kommentare" (klickbar → zeigt positive Kommentare)
+  - Kommentare: "War super!", "Habe viel gelernt!", etc. (NUR positive, freiwillig)
 
 **Buttons:**
 - "Teilnehmen" (wird zu "Abbrechen" wenn bereits teilgenommen)
 - "Beobachten" (wird zu "Nicht mehr beobachten" wenn bereits beobachtet)
+- **"Quest kopieren" (NEU!):** Für Questmaster - Quest als Vorlage übernehmen
 - "Quest abschließen" (nur sichtbar wenn teilgenommen):
   - Button "QR-Code scannen"
   - Button "Beweis hochladen"
@@ -957,20 +1240,58 @@ Statt Technologie zu verteufeln, nutzen wir sie für:
 
 ---
 
+## Wichtige Klarstellungen
+
+### WSW ist NUR EIN Pilot-Projekt!
+**WICHTIG:** "Wir sind wertvoll" (WSW) in Gudensberg (400 Schüler) ist NUR EINER von vielen Use Cases für das Quest-Modul!
+
+**Quest-Modul ist für ALLE:**
+- Kinder (z.B. WSW)
+- Erwachsene (Real-World-Abenteuer)
+- Handwerk (Ausbildungssuche umgedreht)
+- Gemeinschaften (Community-Engagement)
+- NGOs (Mission verbreiten)
+- Spaces (Makerspaces, Bibliotheken, etc.)
+
+WSW ist ein wertvolles Pilot-Projekt, aber das Quest-Modul ist viel größer!
+
+### Real-Life Stack → "Forge" (Working Title)
+Der Arbeitstitel "Real-Life Stack" könnte zu "Forge" werden - noch offen.
+
+**Modular Architektur:**
+- Spaces/Communities können wählen, welche Module sie aktivieren
+- Quest-Modul, Kalender-Modul, Marktplatz-Modul, Avatar-Modul, Skill-Tree-Modul, Log-Modul
+- Jedes Modul kann unabhängig genutzt werden
+
+---
+
 ## Nächste Schritte
 
-1. **Feedback von Timo** zu diesem Dokument
-2. **Entscheidungen treffen** (offene Fragen)
-3. **Prototyp / Wireframes** erstellen (Figma)
-4. **Datenmodell finalisieren**
-5. **Integration mit Kalender & Karte** planen
+1. **Feedback von Timo** zu diesem überarbeiteten Dokument
+2. **module-und-komponenten.md erstellen** (Übersicht über alle Module & Komponenten im Real-Life Stack / Forge)
+3. **Entscheidungen treffen** (offene Fragen)
+4. **Prototyp / Wireframes** erstellen (Figma) - besonders Map mit Filter-System
+5. **Datenmodell finalisieren** (Quest-Reihen, Quest-Sharing, Positive Ratings)
+6. **Integration mit Map, Kalender, Web of Trust** finalisieren
 
 ---
 
-**Status:** Entwurf, wartet auf Review
-**Nächster Schritt:** Timo's Feedback + gemeinsame Verfeinerung
+**Status:** Version 2.0 - Überarbeitet für ALLE Zielgruppen
+**Wichtigste Änderungen:**
+- Quest-Modul ist für ALLE (nicht primär für Kinder)
+- Handwerk-Integration (Azubi-Suche umgedreht)
+- Quest-Sharing (Hamburg → München → Paris)
+- Quest-Reihen (z.B. Carpenter Level 1-10)
+- Positive Ratings (keine negativen Bewertungen)
+- Questmaster-Rolle
+- Utopia Map → Map (konkreter Einstiegspunkt)
+- Erweiterte Filter (Quick + Deep)
+- Avatar, Skill Tree, Log als Full Modules
+- Dashboard-Modul Konzept
+
+**Nächster Schritt:** module-und-komponenten.md erstellen
 
 ---
 
-*Erstellt am 6. Februar 2026*
-*Von Eli, mit Begeisterung und Teamgeist* 💚
+*Überarbeitet am 6. Februar 2026*
+*Von Claude, mit Begeisterung für die Vision* 💚
