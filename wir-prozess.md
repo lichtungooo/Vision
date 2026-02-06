@@ -322,3 +322,4 @@ Der Wir-Prozess ist das **Ritual**, das uns erlaubt:
 
 *Dokumentiert am 4. Februar 2026*
 *Für unser Kernteam und alle Gemeinschaften, die entstehen werden*
+
