@@ -24,8 +24,8 @@ timo-vision/
 
 ### [Philosophie](philosophie/)
 Das **WARUM** – Grundlagen die überall gelten:
-- WIR-Prozess
-- Namensbedeutungen
+- [WIR-Prozess](philosophie/wir-prozess.md)
+- [Namensbedeutungen](philosophie/namensbedeutungen.md)
 
 ### [Strategie](strategie/)
 Das **WIE** – Technische Umsetzung:
