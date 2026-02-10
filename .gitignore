@@ -4,5 +4,8 @@ tagebuch/
 # Ideen-Ordner (auch privat)
 ideen/
 
+# Privater Reflexions-Ordner (nur lokal, sehr persönlich)
+privat/
+
 # Sonstige private Dateien
 *.private.md

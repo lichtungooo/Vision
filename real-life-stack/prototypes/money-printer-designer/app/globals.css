@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Anton's Money Printer Color Scheme */
+:root {
+  --color-primary: #2d5016;      /* Dark Green - Main brand color */
+  --color-primary-light: #3d6b1f;
+  --color-primary-dark: #1d3a0d;
+  --color-secondary: #8b6914;    /* Gold/Brown accent */
+}
+
+@theme {
+  --color-primary-*: initial;
+  --color-primary-DEFAULT: var(--color-primary);
+  --color-primary-light: var(--color-primary-light);
+  --color-primary-dark: var(--color-primary-dark);
+  --color-secondary-*: initial;
+  --color-secondary-DEFAULT: var(--color-secondary);
+}
